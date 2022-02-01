@@ -1,0 +1,701 @@
+Email,Type,Started free trial,Decision maker,Designation,Employee Size,Visited Pricing ,Visited Integrations ,Visited Platform ,Country,Acquisition Source,When do you need to Solution,Sources,Destinations
+1801@customer-leads.com,created account ,Yes,Yes,Tech lead,4368,Yes,No,No,Germany,Blog - Redshift - X to Y,In A Month,google_analytics ,ms_sql
+1802@customer-leads.com,request quote,Yes,No,Ceo,9030,Yes,No,No,China,Direct - Home,Early Exploration,"python,chartio,superset","postgres,s3,ms_sql"
+1803@customer-leads.com,request demo ,Yes,No,Tech lead,7806,Yes,No,No,Germany,Blog - Redshift - X to Y,Immediately,"redshift,s3,tableau",redshift
+1804@customer-leads.com,created account ,No,No,Cto,9655,Yes,No,Yes,Denmark,Blog - Redshift - Generic,Early Exploration,"aurora,s3","bigquery,s3"
+1805@customer-leads.com,request quote,No,No,Cto,3211,Yes,Yes,No,Denmark,Blog - Redshift - X to Y,Early Exploration,google_analytics ,redshift
+1806@customer-leads.com,created account ,No,No,Swe,8270,No,Yes,Yes,Us,Blog - Redshift - Generic,This Quarter,google_analytics ,"snowflake,rds,ms_sql"
+1807@customer-leads.com,contact us,No,Yes,Business analyst ,4249,No,Yes,Yes,India,Blog - Generic,This Quarter,"redshift,s3,tableau",redshift
+1808@customer-leads.com,created account ,No,Yes,Tech lead,9734,No,Yes,No,Germany,Blog - Redshift - X to Y,This Quarter,"python,chartio,superset","bigquery,s3"
+1809@customer-leads.com,request quote,No,No,Product manager,4586,No,Yes,Yes,India,Blog - Redshift - X to Y,Early Exploration,google_analytics ,"bigquery,s3"
+1810@customer-leads.com,created account ,No,No,Ceo,6437,Yes,No,Yes,India,Blog - Redshift - Generic,In A Month,"python,chartio,superset","snowflake,rds,ms_sql"
+1811@customer-leads.com,request demo ,No,Yes,Business analyst ,7628,No,No,No,Us,Blog - Generic,Early Exploration,"mysql,ms_sql",ms_sql
+1812@customer-leads.com,contact us,Yes,No,Ceo,7789,No,No,No,Japan,Blog - Generic,Immediately,"mysql,ms_sql","bigquery,s3"
+1813@customer-leads.com,created account ,No,No,Tech lead,3297,Yes,No,No,Denmark,Ads - ETL Tools,In A Month,"redshift,s3,tableau","bigquery,s3"
+1814@customer-leads.com,contact us,Yes,Yes,Ceo,2199,Yes,No,No,Us,Blog - Redshift - X to Y,Immediately,google_analytics ,"snowflake,rds,ms_sql"
+1815@customer-leads.com,request demo ,Yes,No,Swe,2997,Yes,Yes,Yes,Japan,Direct - Home,In A Month,"python,chartio,superset","snowflake,rds,ms_sql"
+1816@customer-leads.com,request quote,No,Yes,Tech lead,3938,No,Yes,Yes,Germany,Blog - Redshift - Generic,Immediately,"redshift,s3,tableau","snowflake,rds,ms_sql"
+1817@customer-leads.com,request demo ,Yes,Yes,Ceo,649,Yes,No,No,Japan,Blog - Generic,Early Exploration,google_analytics ,ms_sql
+1818@customer-leads.com,created account ,No,No,Swe,7406,Yes,Yes,Yes,Japan,Direct - Home,This Quarter,"aurora,s3",ms_sql
+1819@customer-leads.com,request demo ,Yes,No,Product manager,8753,Yes,Yes,Yes,Us,Blog - Generic,In A Month,"aurora,s3","postgres,s3,ms_sql"
+1820@customer-leads.com,request demo ,Yes,No,Cto,8646,No,No,No,Us,Ads - ETL Tools,Early Exploration,"aurora,s3",ms_sql
+1821@customer-leads.com,request quote,Yes,No,Swe,7199,Yes,No,No,Germany,Ads - ETL Tools,This Quarter,"aurora,s3","snowflake,rds,ms_sql"
+1822@customer-leads.com,request quote,No,No,Swe,1767,Yes,Yes,Yes,Japan,Blog - Redshift - Generic,Early Exploration,"aurora,s3",redshift
+1823@customer-leads.com,created account ,No,Yes,Ceo,975,No,Yes,No,Germany,Direct - Home,In A Month,"mysql,ms_sql","bigquery,s3"
+1824@customer-leads.com,created account ,No,Yes,Ceo,4051,No,No,No,China,Blog - Generic,Early Exploration,"mysql,ms_sql",ms_sql
+1825@customer-leads.com,created account ,No,No,Ceo,6622,Yes,No,Yes,Germany,Blog - Generic,This Quarter,"python,chartio,superset","snowflake,rds,ms_sql"
+1826@customer-leads.com,contact us,Yes,No,Swe,8364,Yes,No,No,Us,Direct - Home,This Quarter,"redshift,s3,tableau",redshift
+1827@customer-leads.com,created account ,No,No,Business analyst ,3973,Yes,No,No,Denmark,Blog - Redshift - Generic,Immediately,google_analytics ,redshift
+1828@customer-leads.com,request demo ,Yes,Yes,Tech lead,7107,Yes,Yes,No,China,Direct - Home,In A Month,"mysql,ms_sql","snowflake,rds,ms_sql"
+1829@customer-leads.com,created account ,Yes,Yes,Ceo,2742,Yes,No,No,Japan,Blog - Redshift - X to Y,Immediately,google_analytics ,"snowflake,rds,ms_sql"
+1830@customer-leads.com,request quote,Yes,No,Ceo,3516,Yes,No,Yes,Us,Blog - Redshift - Generic,In A Month,"mysql,ms_sql",ms_sql
+1831@customer-leads.com,created account ,No,Yes,Ceo,8582,No,No,No,China,Direct - Home,Immediately,"redshift,s3,tableau","bigquery,s3"
+1832@customer-leads.com,contact us,No,Yes,Product manager,7066,Yes,Yes,No,Germany,Blog - Redshift - X to Y,Early Exploration,google_analytics ,"snowflake,rds,ms_sql"
+1833@customer-leads.com,request demo ,Yes,Yes,Swe,8754,Yes,No,No,Denmark,Blog - Redshift - X to Y,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+1834@customer-leads.com,contact us,No,Yes,Business analyst ,1290,Yes,Yes,Yes,Germany,Ads - ETL Tools,Early Exploration,google_analytics ,"bigquery,s3"
+1835@customer-leads.com,created account ,No,Yes,Ceo,5372,No,Yes,Yes,India,Blog - Redshift - Generic,This Quarter,"python,chartio,superset",ms_sql
+1836@customer-leads.com,created account ,No,No,Cto,1583,Yes,Yes,No,Denmark,Blog - Redshift - Generic,This Quarter,google_analytics ,"snowflake,rds,ms_sql"
+1837@customer-leads.com,contact us,No,No,Product manager,4070,Yes,Yes,No,Us,Blog - Generic,Immediately,"redshift,s3,tableau","bigquery,s3"
+1838@customer-leads.com,request demo ,Yes,No,Tech lead,1441,Yes,Yes,Yes,Denmark,Blog - Generic,In A Month,"python,chartio,superset",ms_sql
+1839@customer-leads.com,request demo ,No,Yes,Swe,6199,Yes,Yes,No,Germany,Direct - Home,Immediately,"aurora,s3","snowflake,rds,ms_sql"
+1840@customer-leads.com,request demo ,Yes,Yes,Swe,3416,No,No,Yes,Germany,Direct - Home,This Quarter,"mysql,ms_sql",redshift
+1841@customer-leads.com,created account ,Yes,Yes,Product manager,8931,No,Yes,No,Japan,Blog - Generic,Early Exploration,google_analytics ,redshift
+1842@customer-leads.com,request demo ,No,Yes,Product manager,6618,No,No,Yes,Japan,Blog - Redshift - X to Y,Early Exploration,"redshift,s3,tableau","bigquery,s3"
+1843@customer-leads.com,request quote,Yes,Yes,Ceo,4262,Yes,Yes,No,Us,Blog - Redshift - Generic,Immediately,"python,chartio,superset",redshift
+1844@customer-leads.com,request quote,Yes,Yes,Cto,3094,No,Yes,Yes,Denmark,Blog - Redshift - X to Y,This Quarter,"aurora,s3",ms_sql
+1845@customer-leads.com,request quote,No,Yes,Tech lead,8860,Yes,Yes,No,Japan,Direct - Home,Early Exploration,"mysql,ms_sql","bigquery,s3"
+1846@customer-leads.com,contact us,No,No,Product manager,2171,Yes,No,No,Japan,Blog - Redshift - X to Y,This Quarter,"python,chartio,superset",ms_sql
+1847@customer-leads.com,contact us,No,No,Product manager,1006,Yes,No,Yes,Denmark,Ads - ETL Tools,Immediately,"redshift,s3,tableau",redshift
+1848@customer-leads.com,request quote,No,Yes,Cto,6822,Yes,Yes,Yes,Japan,Blog - Redshift - Generic,Immediately,"aurora,s3","bigquery,s3"
+1849@customer-leads.com,created account ,No,No,Business analyst ,8929,No,Yes,Yes,Us,Blog - Generic,This Quarter,"python,chartio,superset",ms_sql
+1850@customer-leads.com,request quote,Yes,Yes,Cto,6569,No,Yes,Yes,Germany,Direct - Home,Immediately,"aurora,s3","snowflake,rds,ms_sql"
+1851@customer-leads.com,request quote,No,Yes,Swe,8061,No,No,No,Us,Blog - Redshift - Generic,In A Month,"redshift,s3,tableau",redshift
+1852@customer-leads.com,created account ,No,Yes,Product manager,6402,No,Yes,Yes,Us,Blog - Generic,Early Exploration,"aurora,s3",redshift
+1853@customer-leads.com,request quote,No,Yes,Product manager,1434,No,Yes,No,Us,Blog - Redshift - Generic,Immediately,"mysql,ms_sql",redshift
+1854@customer-leads.com,contact us,Yes,No,Ceo,7580,No,Yes,No,China,Blog - Redshift - X to Y,Early Exploration,"python,chartio,superset",ms_sql
+1855@customer-leads.com,contact us,No,Yes,Business analyst ,6615,Yes,No,No,Denmark,Ads - ETL Tools,In A Month,"redshift,s3,tableau","snowflake,rds,ms_sql"
+1856@customer-leads.com,request demo ,No,Yes,Cto,3430,No,Yes,No,Denmark,Ads - ETL Tools,In A Month,"aurora,s3",ms_sql
+1857@customer-leads.com,created account ,Yes,Yes,Cto,7795,No,No,No,Germany,Blog - Redshift - Generic,Early Exploration,google_analytics ,"snowflake,rds,ms_sql"
+1858@customer-leads.com,created account ,No,Yes,Tech lead,8906,Yes,No,No,Us,Ads - ETL Tools,This Quarter,google_analytics ,ms_sql
+1859@customer-leads.com,contact us,Yes,Yes,Product manager,2030,No,Yes,Yes,China,Ads - ETL Tools,In A Month,"aurora,s3","snowflake,rds,ms_sql"
+1860@customer-leads.com,request quote,No,Yes,Swe,9299,No,No,No,Denmark,Blog - Redshift - Generic,Immediately,"aurora,s3","bigquery,s3"
+1861@customer-leads.com,request quote,No,Yes,Business analyst ,5237,Yes,Yes,Yes,Denmark,Blog - Redshift - X to Y,This Quarter,"python,chartio,superset","snowflake,rds,ms_sql"
+1862@customer-leads.com,contact us,Yes,No,Business analyst ,3968,Yes,Yes,No,Denmark,Ads - ETL Tools,This Quarter,"python,chartio,superset","snowflake,rds,ms_sql"
+1863@customer-leads.com,request quote,Yes,Yes,Product manager,1763,No,No,Yes,Germany,Ads - ETL Tools,Early Exploration,"redshift,s3,tableau",redshift
+1864@customer-leads.com,request quote,No,No,Ceo,3285,No,No,Yes,India,Blog - Redshift - X to Y,In A Month,google_analytics ,"snowflake,rds,ms_sql"
+1865@customer-leads.com,request quote,No,Yes,Ceo,2324,Yes,No,Yes,China,Blog - Generic,Early Exploration,"aurora,s3",redshift
+1866@customer-leads.com,contact us,No,No,Tech lead,6825,No,Yes,Yes,China,Ads - ETL Tools,This Quarter,"aurora,s3","snowflake,rds,ms_sql"
+1867@customer-leads.com,created account ,Yes,Yes,Product manager,8367,No,Yes,Yes,Germany,Blog - Generic,In A Month,"redshift,s3,tableau","bigquery,s3"
+1868@customer-leads.com,request demo ,Yes,Yes,Tech lead,6566,No,No,Yes,Japan,Blog - Redshift - X to Y,Early Exploration,google_analytics ,ms_sql
+1869@customer-leads.com,request demo ,No,No,Ceo,1801,No,Yes,Yes,India,Ads - ETL Tools,In A Month,"redshift,s3,tableau","bigquery,s3"
+1870@customer-leads.com,request demo ,Yes,Yes,Swe,8732,Yes,No,No,India,Blog - Generic,Immediately,"aurora,s3","postgres,s3,ms_sql"
+1871@customer-leads.com,request quote,Yes,No,Ceo,3396,Yes,No,Yes,China,Blog - Redshift - X to Y,In A Month,google_analytics ,"postgres,s3,ms_sql"
+1872@customer-leads.com,request demo ,No,Yes,Cto,2589,Yes,Yes,No,Germany,Blog - Generic,Early Exploration,"mysql,ms_sql",redshift
+1873@customer-leads.com,request demo ,Yes,No,Business analyst ,7462,No,No,No,Denmark,Ads - ETL Tools,Immediately,google_analytics ,ms_sql
+1874@customer-leads.com,request demo ,No,No,Ceo,1501,Yes,No,No,China,Ads - ETL Tools,In A Month,"aurora,s3",redshift
+1875@customer-leads.com,contact us,No,No,Swe,7213,No,No,No,China,Ads - ETL Tools,Immediately,"python,chartio,superset",ms_sql
+1876@customer-leads.com,created account ,No,No,Business analyst ,3564,Yes,Yes,No,Denmark,Blog - Generic,This Quarter,"aurora,s3","snowflake,rds,ms_sql"
+1877@customer-leads.com,request quote,No,Yes,Product manager,7260,Yes,No,No,Japan,Blog - Redshift - X to Y,This Quarter,google_analytics ,"snowflake,rds,ms_sql"
+1878@customer-leads.com,request quote,Yes,No,Ceo,7546,Yes,Yes,No,India,Blog - Generic,Immediately,"mysql,ms_sql",redshift
+1879@customer-leads.com,created account ,No,No,Ceo,3732,Yes,No,No,Germany,Direct - Home,Immediately,"python,chartio,superset",redshift
+1880@customer-leads.com,contact us,Yes,Yes,Ceo,4131,No,Yes,No,Germany,Blog - Redshift - Generic,Early Exploration,"aurora,s3","bigquery,s3"
+1881@customer-leads.com,contact us,Yes,Yes,Tech lead,2424,No,Yes,Yes,India,Blog - Generic,This Quarter,google_analytics ,"bigquery,s3"
+1882@customer-leads.com,request quote,No,No,Business analyst ,7455,No,Yes,No,Germany,Ads - ETL Tools,Immediately,google_analytics ,"bigquery,s3"
+1883@customer-leads.com,request demo ,No,Yes,Ceo,8473,Yes,Yes,Yes,Japan,Blog - Generic,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+1884@customer-leads.com,request quote,Yes,Yes,Product manager,2825,Yes,Yes,No,Germany,Blog - Redshift - X to Y,In A Month,"mysql,ms_sql","postgres,s3,ms_sql"
+1885@customer-leads.com,request demo ,Yes,Yes,Cto,4043,Yes,Yes,No,Denmark,Blog - Redshift - Generic,In A Month,"mysql,ms_sql","snowflake,rds,ms_sql"
+1886@customer-leads.com,created account ,No,No,Cto,137,Yes,No,No,Japan,Blog - Generic,This Quarter,"aurora,s3","snowflake,rds,ms_sql"
+1887@customer-leads.com,request quote,Yes,Yes,Swe,2093,No,Yes,Yes,India,Ads - ETL Tools,Early Exploration,"mysql,ms_sql","postgres,s3,ms_sql"
+1888@customer-leads.com,request demo ,No,No,Swe,3086,No,Yes,No,India,Ads - ETL Tools,Early Exploration,"aurora,s3",ms_sql
+1889@customer-leads.com,created account ,Yes,Yes,Cto,6298,No,Yes,Yes,Denmark,Direct - Home,Immediately,"aurora,s3","snowflake,rds,ms_sql"
+1890@customer-leads.com,request demo ,No,No,Product manager,551,No,Yes,Yes,India,Blog - Redshift - Generic,Immediately,"aurora,s3",redshift
+1891@customer-leads.com,contact us,No,No,Cto,7992,No,Yes,No,Japan,Ads - ETL Tools,Early Exploration,google_analytics ,ms_sql
+1892@customer-leads.com,created account ,No,No,Cto,8871,Yes,Yes,No,Germany,Ads - ETL Tools,In A Month,"mysql,ms_sql",redshift
+1893@customer-leads.com,created account ,Yes,No,Tech lead,5030,Yes,No,No,China,Blog - Redshift - Generic,This Quarter,"redshift,s3,tableau","snowflake,rds,ms_sql"
+1894@customer-leads.com,request quote,Yes,Yes,Business analyst ,7215,Yes,Yes,No,India,Blog - Generic,This Quarter,"aurora,s3",redshift
+1895@customer-leads.com,contact us,Yes,No,Product manager,5045,No,Yes,Yes,India,Ads - ETL Tools,In A Month,"python,chartio,superset","postgres,s3,ms_sql"
+1896@customer-leads.com,contact us,Yes,No,Ceo,4078,Yes,Yes,No,Germany,Blog - Redshift - X to Y,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+1897@customer-leads.com,request quote,Yes,No,Cto,9294,Yes,No,Yes,Denmark,Blog - Redshift - X to Y,Immediately,"redshift,s3,tableau",redshift
+1898@customer-leads.com,contact us,Yes,Yes,Ceo,9001,Yes,No,No,Japan,Blog - Redshift - Generic,In A Month,"python,chartio,superset","bigquery,s3"
+1899@customer-leads.com,request quote,No,No,Ceo,6959,Yes,Yes,No,India,Direct - Home,In A Month,"aurora,s3","bigquery,s3"
+1900@customer-leads.com,request quote,Yes,No,Swe,6607,No,Yes,Yes,China,Blog - Redshift - X to Y,This Quarter,"aurora,s3","snowflake,rds,ms_sql"
+1901@customer-leads.com,created account ,Yes,No,Swe,9407,Yes,No,Yes,India,Blog - Redshift - Generic,Early Exploration,"mysql,ms_sql","snowflake,rds,ms_sql"
+1902@customer-leads.com,request quote,Yes,No,Swe,4010,No,No,Yes,Us,Blog - Redshift - Generic,Early Exploration,"aurora,s3",ms_sql
+1903@customer-leads.com,request demo ,No,No,Ceo,4456,No,Yes,Yes,India,Blog - Redshift - X to Y,Early Exploration,"redshift,s3,tableau",redshift
+1904@customer-leads.com,request demo ,Yes,No,Product manager,9884,Yes,No,Yes,Denmark,Blog - Redshift - X to Y,Early Exploration,"python,chartio,superset",redshift
+1905@customer-leads.com,request quote,Yes,Yes,Tech lead,9199,Yes,Yes,No,Denmark,Blog - Redshift - X to Y,Early Exploration,"redshift,s3,tableau","bigquery,s3"
+1906@customer-leads.com,request demo ,Yes,Yes,Tech lead,3634,Yes,Yes,No,Germany,Blog - Redshift - X to Y,Early Exploration,"python,chartio,superset","postgres,s3,ms_sql"
+1907@customer-leads.com,created account ,Yes,Yes,Swe,7500,Yes,No,No,Japan,Direct - Home,This Quarter,google_analytics ,redshift
+1908@customer-leads.com,contact us,No,No,Product manager,2226,No,No,No,Us,Blog - Redshift - X to Y,Early Exploration,"redshift,s3,tableau","bigquery,s3"
+1909@customer-leads.com,request demo ,No,Yes,Business analyst ,416,No,No,No,China,Blog - Redshift - X to Y,Early Exploration,"aurora,s3","bigquery,s3"
+1910@customer-leads.com,created account ,No,Yes,Ceo,5430,No,Yes,Yes,India,Ads - ETL Tools,Immediately,"mysql,ms_sql",ms_sql
+1911@customer-leads.com,created account ,Yes,Yes,Business analyst ,3575,No,No,Yes,Japan,Blog - Redshift - X to Y,In A Month,google_analytics ,redshift
+1912@customer-leads.com,request quote,Yes,No,Ceo,6549,Yes,No,No,Germany,Direct - Home,Immediately,"mysql,ms_sql","snowflake,rds,ms_sql"
+1913@customer-leads.com,request quote,No,No,Swe,5480,Yes,Yes,No,China,Direct - Home,Immediately,"aurora,s3","snowflake,rds,ms_sql"
+1914@customer-leads.com,request quote,No,No,Tech lead,7229,Yes,No,Yes,India,Blog - Redshift - X to Y,This Quarter,"aurora,s3","postgres,s3,ms_sql"
+1915@customer-leads.com,request demo ,Yes,Yes,Ceo,119,Yes,No,Yes,Us,Ads - ETL Tools,Early Exploration,"redshift,s3,tableau",redshift
+1916@customer-leads.com,created account ,No,Yes,Ceo,9368,Yes,Yes,Yes,Us,Blog - Redshift - Generic,In A Month,"aurora,s3",redshift
+1917@customer-leads.com,request demo ,Yes,Yes,Swe,6059,Yes,No,No,Germany,Blog - Redshift - X to Y,This Quarter,"aurora,s3",ms_sql
+1918@customer-leads.com,created account ,Yes,No,Swe,3182,Yes,Yes,Yes,India,Ads - ETL Tools,Early Exploration,"redshift,s3,tableau",redshift
+1919@customer-leads.com,request quote,Yes,Yes,Ceo,2177,Yes,No,No,Germany,Blog - Redshift - X to Y,Early Exploration,google_analytics ,redshift
+1920@customer-leads.com,contact us,No,Yes,Business analyst ,9743,Yes,No,No,Germany,Ads - ETL Tools,This Quarter,google_analytics ,"postgres,s3,ms_sql"
+1921@customer-leads.com,contact us,Yes,Yes,Tech lead,8553,No,Yes,No,China,Blog - Generic,Early Exploration,"python,chartio,superset","postgres,s3,ms_sql"
+1922@customer-leads.com,request quote,No,Yes,Swe,6981,No,Yes,Yes,Us,Blog - Redshift - X to Y,In A Month,"mysql,ms_sql","postgres,s3,ms_sql"
+1923@customer-leads.com,request quote,Yes,Yes,Business analyst ,5728,No,No,No,India,Blog - Generic,Early Exploration,"python,chartio,superset","bigquery,s3"
+1924@customer-leads.com,contact us,No,No,Cto,2588,No,Yes,Yes,Japan,Ads - ETL Tools,Early Exploration,"python,chartio,superset",redshift
+1925@customer-leads.com,request demo ,No,No,Swe,1240,Yes,No,No,Denmark,Direct - Home,Early Exploration,"python,chartio,superset","postgres,s3,ms_sql"
+1926@customer-leads.com,contact us,No,Yes,Tech lead,1219,No,Yes,Yes,Denmark,Blog - Redshift - Generic,Immediately,"mysql,ms_sql","postgres,s3,ms_sql"
+1927@customer-leads.com,created account ,Yes,No,Swe,260,No,Yes,No,Germany,Direct - Home,Early Exploration,"mysql,ms_sql","snowflake,rds,ms_sql"
+1928@customer-leads.com,created account ,No,No,Swe,612,Yes,No,Yes,China,Blog - Redshift - X to Y,Immediately,"redshift,s3,tableau","postgres,s3,ms_sql"
+1929@customer-leads.com,request quote,No,No,Cto,3662,No,No,No,Germany,Blog - Redshift - X to Y,This Quarter,google_analytics ,redshift
+1930@customer-leads.com,contact us,No,No,Ceo,684,No,Yes,Yes,Germany,Ads - ETL Tools,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+1931@customer-leads.com,request demo ,No,No,Swe,1840,Yes,Yes,Yes,Denmark,Direct - Home,This Quarter,"aurora,s3","postgres,s3,ms_sql"
+1932@customer-leads.com,contact us,No,Yes,Tech lead,3425,No,No,No,Japan,Blog - Redshift - X to Y,This Quarter,google_analytics ,"snowflake,rds,ms_sql"
+1933@customer-leads.com,request demo ,Yes,No,Cto,310,No,No,No,Japan,Ads - ETL Tools,This Quarter,"mysql,ms_sql","postgres,s3,ms_sql"
+1934@customer-leads.com,created account ,No,No,Cto,9127,No,Yes,Yes,India,Blog - Redshift - X to Y,Early Exploration,"python,chartio,superset","bigquery,s3"
+1935@customer-leads.com,request quote,No,No,Tech lead,7563,No,Yes,Yes,China,Blog - Redshift - X to Y,Immediately,"mysql,ms_sql","bigquery,s3"
+1936@customer-leads.com,request demo ,Yes,Yes,Ceo,4995,Yes,No,Yes,Us,Blog - Redshift - Generic,Immediately,"redshift,s3,tableau",redshift
+1937@customer-leads.com,request demo ,Yes,Yes,Tech lead,4445,Yes,No,Yes,China,Blog - Redshift - X to Y,Immediately,"mysql,ms_sql","bigquery,s3"
+1938@customer-leads.com,created account ,No,No,Cto,3329,Yes,Yes,No,India,Blog - Redshift - X to Y,This Quarter,"redshift,s3,tableau",ms_sql
+1939@customer-leads.com,request quote,Yes,Yes,Business analyst ,9461,Yes,No,No,Germany,Ads - ETL Tools,Early Exploration,"aurora,s3","snowflake,rds,ms_sql"
+1940@customer-leads.com,contact us,No,Yes,Swe,7815,Yes,No,No,China,Ads - ETL Tools,This Quarter,"python,chartio,superset","snowflake,rds,ms_sql"
+1941@customer-leads.com,contact us,Yes,Yes,Business analyst ,865,Yes,Yes,No,Japan,Blog - Generic,In A Month,"redshift,s3,tableau",redshift
+1942@customer-leads.com,request quote,No,Yes,Cto,4813,No,No,Yes,India,Blog - Generic,Early Exploration,"aurora,s3","bigquery,s3"
+1943@customer-leads.com,contact us,No,No,Business analyst ,7934,No,Yes,Yes,Germany,Blog - Redshift - Generic,This Quarter,"mysql,ms_sql","postgres,s3,ms_sql"
+1944@customer-leads.com,request demo ,No,No,Tech lead,1504,Yes,Yes,Yes,Denmark,Ads - ETL Tools,Early Exploration,"aurora,s3",ms_sql
+1945@customer-leads.com,created account ,Yes,Yes,Product manager,6097,Yes,No,Yes,Denmark,Blog - Generic,This Quarter,"mysql,ms_sql","snowflake,rds,ms_sql"
+1946@customer-leads.com,request demo ,Yes,No,Product manager,1626,Yes,Yes,Yes,China,Direct - Home,In A Month,"aurora,s3",ms_sql
+1947@customer-leads.com,request quote,No,No,Tech lead,25,No,No,Yes,Japan,Blog - Redshift - Generic,This Quarter,"aurora,s3",ms_sql
+1948@customer-leads.com,request quote,No,No,Swe,3859,Yes,Yes,No,China,Direct - Home,This Quarter,"aurora,s3","postgres,s3,ms_sql"
+1949@customer-leads.com,request demo ,No,No,Ceo,720,Yes,Yes,Yes,Japan,Blog - Redshift - Generic,In A Month,"redshift,s3,tableau",ms_sql
+1950@customer-leads.com,created account ,No,No,Product manager,317,No,No,Yes,Denmark,Blog - Generic,In A Month,"python,chartio,superset","postgres,s3,ms_sql"
+1951@customer-leads.com,created account ,No,No,Product manager,588,No,No,Yes,China,Blog - Redshift - X to Y,Immediately,"aurora,s3",ms_sql
+1952@customer-leads.com,contact us,No,No,Cto,8074,No,Yes,No,China,Blog - Redshift - Generic,This Quarter,"mysql,ms_sql",redshift
+1953@customer-leads.com,contact us,Yes,Yes,Product manager,4008,No,Yes,No,Germany,Ads - ETL Tools,In A Month,"redshift,s3,tableau",redshift
+1954@customer-leads.com,request quote,Yes,No,Ceo,719,No,Yes,No,China,Ads - ETL Tools,In A Month,"mysql,ms_sql","bigquery,s3"
+1955@customer-leads.com,created account ,Yes,Yes,Business analyst ,8700,No,Yes,No,China,Ads - ETL Tools,Immediately,"redshift,s3,tableau",redshift
+1956@customer-leads.com,created account ,Yes,No,Ceo,5724,Yes,No,Yes,Japan,Blog - Redshift - Generic,This Quarter,"python,chartio,superset",redshift
+1957@customer-leads.com,request quote,No,No,Swe,6858,Yes,Yes,No,Japan,Blog - Redshift - Generic,This Quarter,"aurora,s3","postgres,s3,ms_sql"
+1958@customer-leads.com,request demo ,Yes,Yes,Business analyst ,1865,No,No,Yes,Denmark,Ads - ETL Tools,Immediately,"aurora,s3","bigquery,s3"
+1959@customer-leads.com,created account ,Yes,Yes,Product manager,4973,No,Yes,No,Japan,Blog - Redshift - X to Y,Immediately,"python,chartio,superset",ms_sql
+1960@customer-leads.com,created account ,Yes,No,Business analyst ,3985,Yes,Yes,Yes,India,Blog - Redshift - Generic,In A Month,"mysql,ms_sql","bigquery,s3"
+1961@customer-leads.com,created account ,No,No,Product manager,4461,Yes,No,Yes,India,Blog - Redshift - Generic,Immediately,"python,chartio,superset",redshift
+1962@customer-leads.com,request demo ,Yes,No,Ceo,6288,Yes,No,No,Germany,Ads - ETL Tools,This Quarter,"aurora,s3","postgres,s3,ms_sql"
+1963@customer-leads.com,contact us,Yes,No,Swe,1401,No,Yes,Yes,China,Ads - ETL Tools,Early Exploration,"aurora,s3","snowflake,rds,ms_sql"
+1964@customer-leads.com,contact us,No,No,Product manager,8105,Yes,Yes,No,Japan,Blog - Redshift - Generic,Immediately,"aurora,s3",ms_sql
+1965@customer-leads.com,created account ,Yes,Yes,Swe,9653,No,Yes,No,Japan,Direct - Home,Early Exploration,"python,chartio,superset",ms_sql
+1966@customer-leads.com,request demo ,Yes,No,Cto,4689,No,Yes,Yes,China,Direct - Home,Early Exploration,"redshift,s3,tableau","postgres,s3,ms_sql"
+1967@customer-leads.com,request demo ,Yes,No,Swe,5654,No,Yes,No,Denmark,Blog - Redshift - X to Y,Early Exploration,"redshift,s3,tableau","postgres,s3,ms_sql"
+1968@customer-leads.com,request quote,No,Yes,Cto,6597,Yes,Yes,Yes,Denmark,Ads - ETL Tools,This Quarter,google_analytics ,redshift
+1969@customer-leads.com,request quote,No,Yes,Ceo,9380,Yes,Yes,Yes,Us,Direct - Home,Immediately,"python,chartio,superset",ms_sql
+1970@customer-leads.com,request quote,No,No,Tech lead,7861,No,No,No,Denmark,Blog - Redshift - Generic,Immediately,"mysql,ms_sql","bigquery,s3"
+1971@customer-leads.com,request demo ,Yes,No,Cto,3831,No,Yes,Yes,India,Blog - Redshift - Generic,Immediately,"mysql,ms_sql",ms_sql
+1972@customer-leads.com,created account ,No,Yes,Product manager,3654,No,Yes,No,Denmark,Direct - Home,Early Exploration,"redshift,s3,tableau",redshift
+1973@customer-leads.com,request demo ,No,No,Business analyst ,7206,Yes,Yes,Yes,Germany,Ads - ETL Tools,This Quarter,"python,chartio,superset","postgres,s3,ms_sql"
+1974@customer-leads.com,created account ,No,No,Tech lead,250,Yes,Yes,No,China,Ads - ETL Tools,This Quarter,google_analytics ,ms_sql
+1975@customer-leads.com,request demo ,Yes,Yes,Swe,7088,Yes,Yes,Yes,India,Direct - Home,In A Month,google_analytics ,"snowflake,rds,ms_sql"
+1976@customer-leads.com,contact us,No,No,Ceo,651,Yes,No,Yes,Japan,Blog - Redshift - X to Y,Early Exploration,"mysql,ms_sql","bigquery,s3"
+1977@customer-leads.com,contact us,No,Yes,Cto,6867,Yes,Yes,No,Germany,Blog - Generic,Early Exploration,"mysql,ms_sql",redshift
+1978@customer-leads.com,request demo ,Yes,No,Business analyst ,4254,No,Yes,Yes,China,Direct - Home,Immediately,"aurora,s3",ms_sql
+1979@customer-leads.com,created account ,No,No,Product manager,703,No,Yes,No,Denmark,Blog - Redshift - X to Y,Early Exploration,"aurora,s3","bigquery,s3"
+1980@customer-leads.com,request demo ,No,Yes,Cto,7732,Yes,Yes,Yes,China,Blog - Redshift - Generic,This Quarter,"redshift,s3,tableau","snowflake,rds,ms_sql"
+1981@customer-leads.com,created account ,No,Yes,Ceo,8343,No,Yes,No,Us,Blog - Redshift - Generic,This Quarter,"aurora,s3","bigquery,s3"
+1982@customer-leads.com,contact us,No,Yes,Cto,6691,No,No,Yes,China,Blog - Generic,In A Month,"aurora,s3",ms_sql
+1983@customer-leads.com,request demo ,Yes,No,Swe,7281,No,Yes,No,Denmark,Ads - ETL Tools,In A Month,"redshift,s3,tableau",redshift
+1984@customer-leads.com,request quote,No,No,Ceo,1330,No,Yes,Yes,China,Blog - Generic,In A Month,google_analytics ,"bigquery,s3"
+1985@customer-leads.com,request demo ,Yes,Yes,Ceo,3582,No,No,No,India,Blog - Redshift - X to Y,Immediately,"redshift,s3,tableau","snowflake,rds,ms_sql"
+1986@customer-leads.com,created account ,Yes,Yes,Cto,950,No,No,Yes,China,Blog - Redshift - Generic,Immediately,"aurora,s3","bigquery,s3"
+1987@customer-leads.com,created account ,Yes,No,Swe,1286,No,No,No,China,Direct - Home,This Quarter,"aurora,s3","bigquery,s3"
+1988@customer-leads.com,contact us,Yes,No,Business analyst ,2701,No,No,Yes,Germany,Blog - Redshift - Generic,This Quarter,google_analytics ,"postgres,s3,ms_sql"
+1989@customer-leads.com,request quote,No,No,Swe,3451,No,Yes,Yes,Germany,Blog - Redshift - X to Y,In A Month,"aurora,s3","bigquery,s3"
+1990@customer-leads.com,created account ,Yes,Yes,Cto,4992,No,Yes,Yes,Us,Blog - Redshift - Generic,This Quarter,"redshift,s3,tableau",ms_sql
+1991@customer-leads.com,contact us,No,No,Product manager,3827,No,Yes,No,Japan,Ads - ETL Tools,Immediately,google_analytics ,redshift
+1992@customer-leads.com,request quote,Yes,Yes,Cto,6940,Yes,No,No,China,Blog - Generic,Immediately,google_analytics ,"snowflake,rds,ms_sql"
+1993@customer-leads.com,request quote,Yes,Yes,Ceo,8058,No,Yes,Yes,Denmark,Direct - Home,Immediately,"redshift,s3,tableau","bigquery,s3"
+1994@customer-leads.com,contact us,Yes,No,Ceo,1264,No,No,No,China,Blog - Redshift - Generic,Early Exploration,"aurora,s3",redshift
+1995@customer-leads.com,request demo ,Yes,Yes,Cto,3807,No,No,No,Denmark,Direct - Home,This Quarter,"mysql,ms_sql",ms_sql
+1996@customer-leads.com,request quote,No,No,Cto,2510,No,No,No,Germany,Ads - ETL Tools,This Quarter,"python,chartio,superset","postgres,s3,ms_sql"
+1997@customer-leads.com,request quote,No,No,Business analyst ,3547,No,No,No,Japan,Blog - Redshift - Generic,This Quarter,"redshift,s3,tableau",ms_sql
+1998@customer-leads.com,contact us,No,Yes,Cto,2541,No,Yes,Yes,Denmark,Blog - Generic,Immediately,google_analytics ,ms_sql
+1999@customer-leads.com,created account ,Yes,No,Swe,4323,Yes,Yes,Yes,Japan,Blog - Generic,Early Exploration,google_analytics ,"postgres,s3,ms_sql"
+2000@customer-leads.com,request demo ,No,No,Ceo,459,Yes,Yes,Yes,China,Blog - Redshift - X to Y,In A Month,"mysql,ms_sql","postgres,s3,ms_sql"
+2001@customer-leads.com,request quote,Yes,Yes,Cto,7085,No,No,Yes,Denmark,Direct - Home,Immediately,"redshift,s3,tableau","bigquery,s3"
+2002@customer-leads.com,request quote,Yes,No,Business analyst ,9166,No,Yes,No,China,Blog - Redshift - Generic,This Quarter,google_analytics ,redshift
+2003@customer-leads.com,created account ,No,Yes,Tech lead,2947,Yes,No,Yes,Denmark,Ads - ETL Tools,Early Exploration,"redshift,s3,tableau",redshift
+2004@customer-leads.com,request demo ,Yes,Yes,Product manager,8695,Yes,Yes,Yes,China,Blog - Redshift - X to Y,In A Month,"redshift,s3,tableau","postgres,s3,ms_sql"
+2005@customer-leads.com,created account ,No,No,Swe,722,No,Yes,No,Japan,Direct - Home,In A Month,"redshift,s3,tableau","postgres,s3,ms_sql"
+2006@customer-leads.com,contact us,Yes,No,Cto,1529,No,No,No,Denmark,Blog - Redshift - X to Y,Immediately,"mysql,ms_sql",redshift
+2007@customer-leads.com,request quote,Yes,No,Tech lead,6528,No,Yes,Yes,Germany,Blog - Generic,Immediately,"redshift,s3,tableau","bigquery,s3"
+2008@customer-leads.com,request demo ,No,No,Swe,5133,No,No,Yes,Us,Blog - Redshift - Generic,In A Month,google_analytics ,"postgres,s3,ms_sql"
+2009@customer-leads.com,created account ,Yes,Yes,Ceo,5402,Yes,Yes,Yes,Germany,Blog - Redshift - Generic,This Quarter,"python,chartio,superset","postgres,s3,ms_sql"
+2010@customer-leads.com,contact us,No,No,Ceo,1445,No,Yes,Yes,China,Direct - Home,Immediately,"mysql,ms_sql","bigquery,s3"
+2011@customer-leads.com,created account ,Yes,No,Cto,8694,No,Yes,Yes,Us,Blog - Redshift - Generic,Immediately,"mysql,ms_sql",ms_sql
+2012@customer-leads.com,contact us,No,No,Ceo,2679,No,Yes,Yes,Germany,Blog - Redshift - X to Y,Immediately,google_analytics ,"snowflake,rds,ms_sql"
+2013@customer-leads.com,contact us,Yes,No,Business analyst ,1167,No,Yes,No,China,Blog - Redshift - Generic,This Quarter,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2014@customer-leads.com,request quote,Yes,No,Cto,3338,Yes,Yes,Yes,India,Direct - Home,This Quarter,"aurora,s3",redshift
+2015@customer-leads.com,contact us,No,Yes,Cto,9719,No,No,Yes,Germany,Blog - Redshift - Generic,In A Month,google_analytics ,redshift
+2016@customer-leads.com,request quote,No,Yes,Cto,7687,Yes,No,No,Japan,Blog - Redshift - Generic,This Quarter,"redshift,s3,tableau",redshift
+2017@customer-leads.com,created account ,No,No,Swe,502,No,Yes,No,China,Blog - Generic,Immediately,"python,chartio,superset","bigquery,s3"
+2018@customer-leads.com,request demo ,No,Yes,Swe,567,No,Yes,Yes,Japan,Direct - Home,Early Exploration,"python,chartio,superset","bigquery,s3"
+2019@customer-leads.com,contact us,No,Yes,Tech lead,4974,Yes,No,No,India,Direct - Home,Early Exploration,"mysql,ms_sql","postgres,s3,ms_sql"
+2020@customer-leads.com,contact us,Yes,No,Tech lead,4957,Yes,Yes,No,Us,Blog - Redshift - X to Y,Early Exploration,"aurora,s3","bigquery,s3"
+2021@customer-leads.com,request demo ,Yes,Yes,Cto,4745,Yes,No,Yes,India,Blog - Generic,This Quarter,"mysql,ms_sql",redshift
+2022@customer-leads.com,contact us,No,No,Ceo,2915,No,No,No,Us,Blog - Redshift - Generic,Immediately,"python,chartio,superset",ms_sql
+2023@customer-leads.com,contact us,No,No,Tech lead,5229,Yes,Yes,No,Japan,Blog - Redshift - Generic,Early Exploration,"aurora,s3",redshift
+2024@customer-leads.com,request demo ,Yes,No,Cto,6221,No,No,Yes,Us,Direct - Home,Immediately,google_analytics ,"snowflake,rds,ms_sql"
+2025@customer-leads.com,created account ,No,Yes,Tech lead,4767,No,No,Yes,Us,Direct - Home,Early Exploration,"redshift,s3,tableau","bigquery,s3"
+2026@customer-leads.com,request quote,No,Yes,Ceo,3504,No,Yes,Yes,Denmark,Direct - Home,Early Exploration,google_analytics ,"snowflake,rds,ms_sql"
+2027@customer-leads.com,contact us,No,No,Business analyst ,7589,Yes,No,Yes,Japan,Direct - Home,This Quarter,"aurora,s3","bigquery,s3"
+2028@customer-leads.com,created account ,Yes,No,Tech lead,7859,Yes,Yes,Yes,Denmark,Blog - Redshift - X to Y,In A Month,google_analytics ,ms_sql
+2029@customer-leads.com,created account ,Yes,No,Business analyst ,5975,No,No,No,Germany,Direct - Home,This Quarter,"redshift,s3,tableau",redshift
+2030@customer-leads.com,contact us,No,Yes,Tech lead,6715,No,No,No,Germany,Ads - ETL Tools,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+2031@customer-leads.com,contact us,No,Yes,Ceo,7816,No,No,Yes,China,Direct - Home,This Quarter,"mysql,ms_sql",redshift
+2032@customer-leads.com,request quote,Yes,No,Cto,3423,Yes,No,No,Japan,Ads - ETL Tools,Immediately,"aurora,s3",redshift
+2033@customer-leads.com,contact us,Yes,No,Cto,6935,Yes,No,Yes,Germany,Blog - Redshift - Generic,This Quarter,"python,chartio,superset",redshift
+2034@customer-leads.com,request demo ,No,No,Business analyst ,1712,Yes,Yes,Yes,China,Direct - Home,Immediately,google_analytics ,"bigquery,s3"
+2035@customer-leads.com,contact us,Yes,Yes,Ceo,9175,No,No,No,Germany,Direct - Home,Early Exploration,"mysql,ms_sql","snowflake,rds,ms_sql"
+2036@customer-leads.com,created account ,Yes,Yes,Business analyst ,7955,Yes,No,Yes,Denmark,Blog - Generic,Immediately,google_analytics ,ms_sql
+2037@customer-leads.com,request quote,Yes,No,Product manager,86,Yes,Yes,No,India,Blog - Redshift - X to Y,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+2038@customer-leads.com,request quote,No,No,Swe,7867,Yes,No,No,China,Blog - Redshift - Generic,This Quarter,"redshift,s3,tableau","bigquery,s3"
+2039@customer-leads.com,contact us,Yes,No,Swe,4129,No,No,Yes,Germany,Blog - Redshift - Generic,Immediately,"mysql,ms_sql","snowflake,rds,ms_sql"
+2040@customer-leads.com,contact us,No,Yes,Product manager,2053,Yes,No,No,Japan,Blog - Redshift - X to Y,In A Month,"python,chartio,superset",redshift
+2041@customer-leads.com,contact us,Yes,No,Tech lead,8805,No,No,Yes,China,Direct - Home,This Quarter,"aurora,s3","bigquery,s3"
+2042@customer-leads.com,request demo ,No,Yes,Swe,6897,No,Yes,Yes,China,Ads - ETL Tools,Immediately,"python,chartio,superset",ms_sql
+2043@customer-leads.com,contact us,No,No,Cto,7223,Yes,No,No,Germany,Direct - Home,This Quarter,"python,chartio,superset",redshift
+2044@customer-leads.com,request demo ,No,Yes,Cto,6075,No,Yes,Yes,Germany,Ads - ETL Tools,This Quarter,"aurora,s3","postgres,s3,ms_sql"
+2045@customer-leads.com,request quote,Yes,No,Business analyst ,9730,Yes,Yes,Yes,Denmark,Blog - Generic,Immediately,"redshift,s3,tableau","postgres,s3,ms_sql"
+2046@customer-leads.com,request demo ,No,No,Cto,2265,Yes,Yes,Yes,Germany,Blog - Redshift - X to Y,Early Exploration,"aurora,s3",redshift
+2047@customer-leads.com,request quote,Yes,Yes,Business analyst ,3808,Yes,No,Yes,Japan,Direct - Home,Immediately,"python,chartio,superset","bigquery,s3"
+2048@customer-leads.com,contact us,No,Yes,Business analyst ,6935,Yes,Yes,Yes,China,Ads - ETL Tools,Immediately,"mysql,ms_sql",redshift
+2049@customer-leads.com,created account ,No,No,Business analyst ,4381,Yes,No,Yes,India,Ads - ETL Tools,Early Exploration,"redshift,s3,tableau",ms_sql
+2050@customer-leads.com,request quote,No,No,Cto,5805,Yes,Yes,Yes,Us,Blog - Generic,Early Exploration,"python,chartio,superset",ms_sql
+2051@customer-leads.com,request demo ,No,Yes,Ceo,6973,No,No,No,India,Blog - Redshift - Generic,Early Exploration,google_analytics ,"snowflake,rds,ms_sql"
+2052@customer-leads.com,request quote,Yes,Yes,Tech lead,3816,No,Yes,Yes,Japan,Direct - Home,In A Month,google_analytics ,ms_sql
+2053@customer-leads.com,request quote,Yes,No,Product manager,8548,No,No,No,Us,Blog - Redshift - Generic,Immediately,"redshift,s3,tableau","postgres,s3,ms_sql"
+2054@customer-leads.com,created account ,No,No,Cto,702,No,Yes,Yes,India,Blog - Redshift - Generic,In A Month,"aurora,s3","snowflake,rds,ms_sql"
+2055@customer-leads.com,request quote,No,Yes,Business analyst ,9578,No,No,No,Us,Blog - Redshift - Generic,In A Month,google_analytics ,"snowflake,rds,ms_sql"
+2056@customer-leads.com,request quote,No,No,Product manager,3201,Yes,Yes,No,Us,Direct - Home,Early Exploration,google_analytics ,"postgres,s3,ms_sql"
+2057@customer-leads.com,request demo ,Yes,Yes,Tech lead,1663,No,Yes,No,India,Blog - Generic,Immediately,"aurora,s3","postgres,s3,ms_sql"
+2058@customer-leads.com,contact us,No,No,Cto,5794,Yes,No,Yes,Germany,Ads - ETL Tools,In A Month,"redshift,s3,tableau",ms_sql
+2059@customer-leads.com,created account ,Yes,Yes,Cto,9974,No,No,Yes,Us,Blog - Generic,This Quarter,"mysql,ms_sql",redshift
+2060@customer-leads.com,request quote,No,No,Tech lead,9180,Yes,Yes,No,Japan,Blog - Redshift - Generic,This Quarter,"python,chartio,superset","snowflake,rds,ms_sql"
+2061@customer-leads.com,request quote,Yes,Yes,Tech lead,9846,No,Yes,Yes,China,Blog - Generic,In A Month,"python,chartio,superset",ms_sql
+2062@customer-leads.com,request quote,Yes,No,Product manager,698,Yes,Yes,Yes,Japan,Blog - Redshift - X to Y,In A Month,"redshift,s3,tableau","postgres,s3,ms_sql"
+2063@customer-leads.com,request demo ,Yes,Yes,Tech lead,1332,No,No,No,India,Ads - ETL Tools,Immediately,google_analytics ,"postgres,s3,ms_sql"
+2064@customer-leads.com,request demo ,Yes,Yes,Ceo,7480,No,No,Yes,India,Ads - ETL Tools,This Quarter,"mysql,ms_sql","bigquery,s3"
+2065@customer-leads.com,request quote,No,Yes,Swe,2441,No,Yes,No,Germany,Blog - Redshift - X to Y,Early Exploration,"mysql,ms_sql",redshift
+2066@customer-leads.com,contact us,No,Yes,Business analyst ,5768,No,Yes,No,China,Direct - Home,Early Exploration,"aurora,s3",redshift
+2067@customer-leads.com,request quote,No,Yes,Product manager,4238,No,Yes,Yes,Denmark,Blog - Generic,This Quarter,"aurora,s3",ms_sql
+2068@customer-leads.com,created account ,No,No,Product manager,7073,No,Yes,No,Japan,Blog - Redshift - Generic,Immediately,"mysql,ms_sql",ms_sql
+2069@customer-leads.com,contact us,No,No,Cto,9909,No,Yes,Yes,Denmark,Blog - Generic,In A Month,"python,chartio,superset","postgres,s3,ms_sql"
+2070@customer-leads.com,contact us,Yes,Yes,Business analyst ,1118,No,Yes,Yes,Japan,Blog - Redshift - X to Y,This Quarter,google_analytics ,"postgres,s3,ms_sql"
+2071@customer-leads.com,contact us,Yes,No,Cto,6554,No,Yes,Yes,India,Blog - Redshift - Generic,In A Month,"aurora,s3",ms_sql
+2072@customer-leads.com,created account ,Yes,Yes,Product manager,8263,No,Yes,No,Germany,Ads - ETL Tools,In A Month,"redshift,s3,tableau","postgres,s3,ms_sql"
+2073@customer-leads.com,contact us,No,Yes,Ceo,9241,Yes,Yes,No,India,Ads - ETL Tools,This Quarter,"aurora,s3","snowflake,rds,ms_sql"
+2074@customer-leads.com,request quote,Yes,No,Business analyst ,8946,Yes,Yes,No,China,Blog - Generic,This Quarter,"python,chartio,superset",redshift
+2075@customer-leads.com,request demo ,No,No,Tech lead,5864,No,No,Yes,Japan,Blog - Redshift - X to Y,In A Month,"aurora,s3",ms_sql
+2076@customer-leads.com,request demo ,No,Yes,Business analyst ,2741,Yes,Yes,No,Denmark,Blog - Generic,Immediately,google_analytics ,"bigquery,s3"
+2077@customer-leads.com,created account ,Yes,Yes,Ceo,8035,Yes,Yes,Yes,Japan,Direct - Home,In A Month,"redshift,s3,tableau",ms_sql
+2078@customer-leads.com,request quote,Yes,No,Product manager,8192,Yes,Yes,No,Japan,Direct - Home,In A Month,"mysql,ms_sql",redshift
+2079@customer-leads.com,request demo ,Yes,Yes,Swe,9994,Yes,No,No,Japan,Blog - Redshift - Generic,In A Month,"python,chartio,superset",ms_sql
+2080@customer-leads.com,created account ,Yes,No,Product manager,3161,No,Yes,Yes,Germany,Blog - Redshift - Generic,Immediately,"python,chartio,superset","postgres,s3,ms_sql"
+2081@customer-leads.com,request quote,No,No,Product manager,5930,Yes,Yes,No,Germany,Ads - ETL Tools,This Quarter,"redshift,s3,tableau","bigquery,s3"
+2082@customer-leads.com,request quote,Yes,Yes,Ceo,2553,Yes,No,Yes,China,Ads - ETL Tools,This Quarter,"mysql,ms_sql",ms_sql
+2083@customer-leads.com,created account ,Yes,No,Cto,9303,No,Yes,No,Denmark,Blog - Redshift - Generic,This Quarter,google_analytics ,redshift
+2084@customer-leads.com,created account ,Yes,No,Swe,3314,No,Yes,Yes,Us,Direct - Home,Immediately,google_analytics ,"snowflake,rds,ms_sql"
+2085@customer-leads.com,contact us,Yes,No,Swe,8811,Yes,No,No,Us,Blog - Redshift - Generic,This Quarter,"aurora,s3","postgres,s3,ms_sql"
+2086@customer-leads.com,created account ,No,Yes,Cto,3218,Yes,Yes,Yes,Japan,Blog - Redshift - Generic,In A Month,"aurora,s3",ms_sql
+2087@customer-leads.com,contact us,Yes,Yes,Ceo,3831,Yes,Yes,No,Denmark,Blog - Generic,Immediately,"mysql,ms_sql","postgres,s3,ms_sql"
+2088@customer-leads.com,request demo ,No,Yes,Ceo,527,Yes,No,Yes,China,Direct - Home,In A Month,"python,chartio,superset",ms_sql
+2089@customer-leads.com,created account ,No,No,Product manager,6462,No,No,No,China,Direct - Home,In A Month,"redshift,s3,tableau","bigquery,s3"
+2090@customer-leads.com,request quote,No,Yes,Ceo,8874,No,Yes,No,Denmark,Direct - Home,Immediately,"redshift,s3,tableau","bigquery,s3"
+2091@customer-leads.com,request quote,No,Yes,Ceo,9871,No,No,Yes,Us,Direct - Home,Early Exploration,google_analytics ,"snowflake,rds,ms_sql"
+2092@customer-leads.com,request quote,Yes,Yes,Ceo,7654,No,No,No,India,Blog - Generic,Early Exploration,"python,chartio,superset",ms_sql
+2093@customer-leads.com,created account ,No,No,Business analyst ,2920,Yes,No,No,China,Blog - Generic,This Quarter,google_analytics ,redshift
+2094@customer-leads.com,created account ,No,No,Business analyst ,546,Yes,Yes,Yes,Japan,Blog - Generic,Immediately,"aurora,s3","bigquery,s3"
+2095@customer-leads.com,contact us,Yes,Yes,Business analyst ,1800,No,No,Yes,China,Ads - ETL Tools,This Quarter,google_analytics ,ms_sql
+2096@customer-leads.com,contact us,Yes,No,Swe,7822,Yes,Yes,Yes,India,Blog - Redshift - X to Y,Immediately,google_analytics ,redshift
+2097@customer-leads.com,request demo ,No,Yes,Cto,5569,No,No,Yes,Denmark,Blog - Redshift - Generic,Early Exploration,"python,chartio,superset",ms_sql
+2098@customer-leads.com,request quote,No,No,Swe,7499,No,No,Yes,Japan,Direct - Home,This Quarter,google_analytics ,"postgres,s3,ms_sql"
+2099@customer-leads.com,created account ,No,Yes,Swe,4050,No,Yes,Yes,India,Direct - Home,Immediately,"mysql,ms_sql",ms_sql
+2100@customer-leads.com,contact us,No,No,Product manager,7769,No,Yes,Yes,India,Ads - ETL Tools,Immediately,"aurora,s3","bigquery,s3"
+2101@customer-leads.com,contact us,Yes,No,Swe,3811,Yes,No,No,India,Ads - ETL Tools,Immediately,"redshift,s3,tableau",redshift
+2102@customer-leads.com,request quote,Yes,No,Product manager,2944,Yes,Yes,Yes,India,Blog - Generic,This Quarter,"python,chartio,superset","postgres,s3,ms_sql"
+2103@customer-leads.com,request demo ,Yes,Yes,Tech lead,9266,Yes,No,No,India,Blog - Generic,Immediately,google_analytics ,ms_sql
+2104@customer-leads.com,request quote,No,Yes,Tech lead,3016,No,No,Yes,Denmark,Ads - ETL Tools,Early Exploration,"mysql,ms_sql","postgres,s3,ms_sql"
+2105@customer-leads.com,request demo ,Yes,Yes,Business analyst ,6067,Yes,No,No,China,Blog - Generic,Early Exploration,"aurora,s3","bigquery,s3"
+2106@customer-leads.com,request quote,Yes,Yes,Tech lead,8957,Yes,No,No,Denmark,Blog - Generic,This Quarter,"mysql,ms_sql","postgres,s3,ms_sql"
+2107@customer-leads.com,contact us,No,No,Cto,2282,No,No,No,Us,Blog - Redshift - Generic,Immediately,"redshift,s3,tableau","bigquery,s3"
+2108@customer-leads.com,request quote,Yes,No,Ceo,2169,No,Yes,Yes,Us,Direct - Home,In A Month,"redshift,s3,tableau","bigquery,s3"
+2109@customer-leads.com,created account ,Yes,No,Tech lead,8012,Yes,Yes,Yes,Germany,Blog - Generic,This Quarter,google_analytics ,redshift
+2110@customer-leads.com,request quote,No,Yes,Ceo,3320,No,No,Yes,Japan,Ads - ETL Tools,Early Exploration,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2111@customer-leads.com,created account ,Yes,Yes,Business analyst ,5502,No,Yes,No,China,Ads - ETL Tools,Early Exploration,google_analytics ,ms_sql
+2112@customer-leads.com,contact us,No,No,Swe,3490,No,No,Yes,Us,Blog - Redshift - Generic,This Quarter,"mysql,ms_sql",redshift
+2113@customer-leads.com,created account ,Yes,Yes,Cto,2874,Yes,No,Yes,Japan,Blog - Redshift - X to Y,Immediately,"redshift,s3,tableau",redshift
+2114@customer-leads.com,contact us,Yes,No,Cto,5466,No,Yes,No,India,Blog - Redshift - X to Y,Immediately,google_analytics ,"postgres,s3,ms_sql"
+2115@customer-leads.com,request demo ,Yes,No,Ceo,3163,No,Yes,Yes,China,Blog - Redshift - X to Y,In A Month,"redshift,s3,tableau","postgres,s3,ms_sql"
+2116@customer-leads.com,request demo ,Yes,No,Cto,6053,No,No,Yes,China,Blog - Generic,Immediately,google_analytics ,"snowflake,rds,ms_sql"
+2117@customer-leads.com,request demo ,No,Yes,Business analyst ,7098,Yes,Yes,No,China,Blog - Generic,Early Exploration,"redshift,s3,tableau","bigquery,s3"
+2118@customer-leads.com,request quote,No,Yes,Cto,7586,No,Yes,Yes,Germany,Blog - Redshift - Generic,This Quarter,"aurora,s3","snowflake,rds,ms_sql"
+2119@customer-leads.com,request demo ,Yes,No,Business analyst ,7817,No,Yes,No,Denmark,Blog - Redshift - X to Y,In A Month,"aurora,s3",ms_sql
+2120@customer-leads.com,request demo ,Yes,No,Ceo,2653,Yes,Yes,Yes,China,Ads - ETL Tools,This Quarter,google_analytics ,ms_sql
+2121@customer-leads.com,created account ,Yes,Yes,Tech lead,6500,Yes,Yes,Yes,Germany,Direct - Home,In A Month,"redshift,s3,tableau",ms_sql
+2122@customer-leads.com,request demo ,Yes,No,Product manager,322,Yes,Yes,Yes,Germany,Direct - Home,Early Exploration,"python,chartio,superset","snowflake,rds,ms_sql"
+2123@customer-leads.com,request demo ,Yes,Yes,Product manager,8464,Yes,No,No,Germany,Blog - Redshift - X to Y,Immediately,"redshift,s3,tableau","bigquery,s3"
+2124@customer-leads.com,contact us,No,Yes,Swe,9762,Yes,No,Yes,India,Blog - Redshift - X to Y,This Quarter,"redshift,s3,tableau","postgres,s3,ms_sql"
+2125@customer-leads.com,request demo ,No,Yes,Tech lead,6291,No,Yes,Yes,Japan,Direct - Home,Immediately,"python,chartio,superset",redshift
+2126@customer-leads.com,request quote,No,No,Business analyst ,9743,No,Yes,No,Us,Direct - Home,Early Exploration,"redshift,s3,tableau",ms_sql
+2127@customer-leads.com,created account ,Yes,Yes,Ceo,874,Yes,Yes,No,Japan,Blog - Redshift - X to Y,Early Exploration,google_analytics ,redshift
+2128@customer-leads.com,contact us,Yes,No,Product manager,4838,No,Yes,Yes,Us,Blog - Redshift - X to Y,Early Exploration,"redshift,s3,tableau","bigquery,s3"
+2129@customer-leads.com,request quote,Yes,No,Business analyst ,6596,Yes,Yes,No,Japan,Ads - ETL Tools,This Quarter,"aurora,s3","bigquery,s3"
+2130@customer-leads.com,contact us,No,Yes,Product manager,963,No,No,No,China,Blog - Redshift - X to Y,This Quarter,google_analytics ,ms_sql
+2131@customer-leads.com,created account ,Yes,No,Tech lead,9699,No,Yes,No,Denmark,Blog - Redshift - X to Y,In A Month,"mysql,ms_sql",redshift
+2132@customer-leads.com,request quote,Yes,Yes,Business analyst ,554,Yes,Yes,No,India,Blog - Redshift - Generic,This Quarter,"mysql,ms_sql","postgres,s3,ms_sql"
+2133@customer-leads.com,request quote,Yes,No,Swe,8778,Yes,No,Yes,Germany,Ads - ETL Tools,In A Month,"python,chartio,superset","bigquery,s3"
+2134@customer-leads.com,request demo ,Yes,Yes,Ceo,9652,No,No,No,China,Blog - Redshift - Generic,This Quarter,"mysql,ms_sql","bigquery,s3"
+2135@customer-leads.com,created account ,Yes,No,Product manager,7764,No,No,No,China,Blog - Redshift - Generic,In A Month,"redshift,s3,tableau","bigquery,s3"
+2136@customer-leads.com,request quote,Yes,No,Business analyst ,2771,Yes,Yes,Yes,Germany,Blog - Redshift - Generic,This Quarter,"aurora,s3",ms_sql
+2137@customer-leads.com,request demo ,No,No,Tech lead,6669,Yes,Yes,No,China,Blog - Generic,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+2138@customer-leads.com,created account ,Yes,No,Tech lead,6084,No,Yes,Yes,China,Blog - Redshift - Generic,Early Exploration,"aurora,s3",ms_sql
+2139@customer-leads.com,created account ,No,Yes,Cto,6763,Yes,No,No,Germany,Blog - Redshift - X to Y,Early Exploration,"mysql,ms_sql",ms_sql
+2140@customer-leads.com,request demo ,No,Yes,Product manager,4926,Yes,Yes,No,Japan,Blog - Redshift - Generic,Immediately,"redshift,s3,tableau","postgres,s3,ms_sql"
+2141@customer-leads.com,contact us,Yes,No,Product manager,9745,Yes,Yes,Yes,Japan,Ads - ETL Tools,This Quarter,"mysql,ms_sql","snowflake,rds,ms_sql"
+2142@customer-leads.com,created account ,Yes,No,Swe,6327,No,No,Yes,Denmark,Ads - ETL Tools,Early Exploration,google_analytics ,"bigquery,s3"
+2143@customer-leads.com,request demo ,Yes,Yes,Ceo,2354,No,No,Yes,Us,Direct - Home,In A Month,"python,chartio,superset",redshift
+2144@customer-leads.com,contact us,No,Yes,Ceo,7784,No,Yes,Yes,Japan,Blog - Redshift - Generic,In A Month,"redshift,s3,tableau",ms_sql
+2145@customer-leads.com,created account ,Yes,Yes,Swe,8293,No,Yes,Yes,China,Blog - Redshift - Generic,Early Exploration,"mysql,ms_sql","snowflake,rds,ms_sql"
+2146@customer-leads.com,request demo ,Yes,No,Swe,4601,No,No,No,Denmark,Ads - ETL Tools,This Quarter,"python,chartio,superset","snowflake,rds,ms_sql"
+2147@customer-leads.com,contact us,Yes,Yes,Swe,1726,Yes,No,No,Japan,Blog - Redshift - X to Y,This Quarter,"redshift,s3,tableau",ms_sql
+2148@customer-leads.com,created account ,Yes,No,Tech lead,5532,Yes,No,Yes,India,Direct - Home,This Quarter,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2149@customer-leads.com,request quote,No,Yes,Business analyst ,9556,No,No,Yes,Denmark,Ads - ETL Tools,This Quarter,"aurora,s3","snowflake,rds,ms_sql"
+2150@customer-leads.com,created account ,No,No,Business analyst ,9259,No,Yes,No,Us,Blog - Redshift - X to Y,Immediately,"redshift,s3,tableau","postgres,s3,ms_sql"
+2151@customer-leads.com,request quote,No,Yes,Swe,9866,Yes,Yes,No,China,Blog - Redshift - Generic,Immediately,"mysql,ms_sql","snowflake,rds,ms_sql"
+2152@customer-leads.com,contact us,No,No,Business analyst ,1707,No,Yes,No,China,Blog - Generic,In A Month,"mysql,ms_sql",redshift
+2153@customer-leads.com,request demo ,Yes,No,Swe,7333,Yes,No,Yes,Japan,Ads - ETL Tools,Immediately,"aurora,s3",ms_sql
+2154@customer-leads.com,request quote,No,No,Cto,2984,Yes,No,Yes,Denmark,Direct - Home,Early Exploration,google_analytics ,"snowflake,rds,ms_sql"
+2155@customer-leads.com,request quote,No,Yes,Cto,311,No,Yes,No,Denmark,Blog - Generic,This Quarter,"redshift,s3,tableau","bigquery,s3"
+2156@customer-leads.com,request demo ,Yes,No,Product manager,6835,No,No,Yes,Japan,Blog - Redshift - X to Y,In A Month,"aurora,s3","bigquery,s3"
+2157@customer-leads.com,contact us,Yes,No,Swe,6896,Yes,No,Yes,Denmark,Direct - Home,Immediately,"mysql,ms_sql","bigquery,s3"
+2158@customer-leads.com,request quote,Yes,Yes,Tech lead,6952,Yes,No,Yes,China,Direct - Home,Early Exploration,google_analytics ,ms_sql
+2159@customer-leads.com,request demo ,No,No,Business analyst ,4691,Yes,No,Yes,China,Blog - Redshift - Generic,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+2160@customer-leads.com,request demo ,No,Yes,Swe,5498,Yes,Yes,Yes,Denmark,Blog - Redshift - X to Y,Immediately,"aurora,s3",ms_sql
+2161@customer-leads.com,contact us,No,No,Business analyst ,6488,No,Yes,Yes,Denmark,Direct - Home,This Quarter,google_analytics ,redshift
+2162@customer-leads.com,request quote,No,No,Product manager,8446,Yes,Yes,No,India,Blog - Redshift - X to Y,Immediately,"redshift,s3,tableau","bigquery,s3"
+2163@customer-leads.com,created account ,Yes,Yes,Tech lead,3604,Yes,Yes,No,India,Blog - Redshift - X to Y,Early Exploration,"redshift,s3,tableau",ms_sql
+2164@customer-leads.com,created account ,Yes,No,Product manager,1039,No,Yes,Yes,Us,Blog - Generic,Early Exploration,"redshift,s3,tableau","bigquery,s3"
+2165@customer-leads.com,request quote,Yes,Yes,Tech lead,5232,Yes,Yes,Yes,China,Ads - ETL Tools,Early Exploration,google_analytics ,"postgres,s3,ms_sql"
+2166@customer-leads.com,request demo ,No,Yes,Business analyst ,7892,Yes,No,No,China,Blog - Redshift - X to Y,Immediately,"aurora,s3","snowflake,rds,ms_sql"
+2167@customer-leads.com,created account ,No,No,Swe,8565,No,Yes,No,Denmark,Direct - Home,In A Month,"mysql,ms_sql","snowflake,rds,ms_sql"
+2168@customer-leads.com,contact us,No,No,Business analyst ,7008,No,No,No,Germany,Direct - Home,Early Exploration,google_analytics ,"snowflake,rds,ms_sql"
+2169@customer-leads.com,contact us,Yes,No,Ceo,5467,No,Yes,No,India,Blog - Redshift - X to Y,This Quarter,google_analytics ,ms_sql
+2170@customer-leads.com,request demo ,No,No,Swe,6964,No,No,Yes,Denmark,Blog - Redshift - Generic,In A Month,"python,chartio,superset","postgres,s3,ms_sql"
+2171@customer-leads.com,created account ,No,Yes,Ceo,8763,Yes,Yes,No,Germany,Blog - Redshift - Generic,Early Exploration,"aurora,s3","snowflake,rds,ms_sql"
+2172@customer-leads.com,created account ,No,No,Ceo,1744,Yes,No,Yes,Us,Blog - Redshift - Generic,This Quarter,"mysql,ms_sql","bigquery,s3"
+2173@customer-leads.com,contact us,Yes,No,Swe,8950,No,Yes,Yes,Japan,Direct - Home,Early Exploration,"redshift,s3,tableau","bigquery,s3"
+2174@customer-leads.com,created account ,No,Yes,Swe,121,Yes,Yes,No,Japan,Blog - Redshift - Generic,This Quarter,"python,chartio,superset","bigquery,s3"
+2175@customer-leads.com,created account ,No,No,Product manager,1647,Yes,Yes,Yes,China,Blog - Generic,In A Month,"python,chartio,superset","postgres,s3,ms_sql"
+2176@customer-leads.com,created account ,No,Yes,Tech lead,5021,Yes,Yes,No,Us,Blog - Generic,Immediately,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2177@customer-leads.com,created account ,No,Yes,Product manager,1030,Yes,Yes,Yes,China,Blog - Redshift - Generic,Early Exploration,"redshift,s3,tableau",redshift
+2178@customer-leads.com,request demo ,Yes,Yes,Tech lead,5348,No,No,Yes,China,Ads - ETL Tools,In A Month,"mysql,ms_sql",redshift
+2179@customer-leads.com,request demo ,Yes,No,Ceo,2400,Yes,No,Yes,Japan,Blog - Redshift - X to Y,Early Exploration,"aurora,s3","snowflake,rds,ms_sql"
+2180@customer-leads.com,request quote,No,Yes,Ceo,9277,Yes,No,Yes,Denmark,Ads - ETL Tools,Early Exploration,google_analytics ,"snowflake,rds,ms_sql"
+2181@customer-leads.com,created account ,Yes,Yes,Business analyst ,6293,Yes,Yes,Yes,India,Blog - Generic,Early Exploration,"python,chartio,superset",redshift
+2182@customer-leads.com,contact us,No,Yes,Ceo,854,No,Yes,No,Denmark,Blog - Redshift - Generic,Early Exploration,"mysql,ms_sql",ms_sql
+2183@customer-leads.com,contact us,No,No,Business analyst ,6127,Yes,No,No,Germany,Blog - Generic,Early Exploration,google_analytics ,"bigquery,s3"
+2184@customer-leads.com,contact us,Yes,Yes,Ceo,3745,Yes,No,No,India,Direct - Home,Immediately,"aurora,s3","postgres,s3,ms_sql"
+2185@customer-leads.com,request demo ,Yes,No,Tech lead,5380,No,No,No,Us,Blog - Redshift - X to Y,This Quarter,google_analytics ,ms_sql
+2186@customer-leads.com,contact us,No,Yes,Ceo,7005,Yes,No,No,India,Blog - Generic,Early Exploration,"redshift,s3,tableau",redshift
+2187@customer-leads.com,contact us,No,Yes,Ceo,8758,Yes,No,No,China,Ads - ETL Tools,This Quarter,"aurora,s3",redshift
+2188@customer-leads.com,contact us,Yes,Yes,Ceo,4592,No,No,Yes,India,Blog - Generic,This Quarter,"mysql,ms_sql","postgres,s3,ms_sql"
+2189@customer-leads.com,created account ,Yes,Yes,Product manager,216,Yes,Yes,No,Germany,Ads - ETL Tools,In A Month,google_analytics ,"bigquery,s3"
+2190@customer-leads.com,request demo ,Yes,No,Business analyst ,9171,No,No,No,Us,Ads - ETL Tools,Immediately,"mysql,ms_sql",ms_sql
+2191@customer-leads.com,request quote,No,Yes,Cto,4861,Yes,Yes,No,Germany,Direct - Home,This Quarter,google_analytics ,"bigquery,s3"
+2192@customer-leads.com,contact us,No,Yes,Business analyst ,6014,No,Yes,Yes,Japan,Blog - Generic,Early Exploration,google_analytics ,"postgres,s3,ms_sql"
+2193@customer-leads.com,created account ,No,No,Cto,1439,Yes,No,No,Germany,Blog - Generic,Early Exploration,"python,chartio,superset",ms_sql
+2194@customer-leads.com,contact us,Yes,Yes,Ceo,6090,No,No,Yes,China,Ads - ETL Tools,This Quarter,google_analytics ,"bigquery,s3"
+2195@customer-leads.com,request demo ,Yes,No,Product manager,6971,No,No,Yes,Denmark,Blog - Redshift - X to Y,Immediately,"redshift,s3,tableau","postgres,s3,ms_sql"
+2196@customer-leads.com,request demo ,Yes,No,Product manager,1495,Yes,Yes,No,Us,Blog - Redshift - Generic,Immediately,google_analytics ,"postgres,s3,ms_sql"
+2197@customer-leads.com,created account ,No,Yes,Cto,7765,Yes,No,No,China,Blog - Redshift - X to Y,Early Exploration,"aurora,s3","snowflake,rds,ms_sql"
+2198@customer-leads.com,request quote,No,No,Swe,1433,No,Yes,No,China,Blog - Generic,Early Exploration,"redshift,s3,tableau",ms_sql
+2199@customer-leads.com,request quote,Yes,No,Product manager,4638,Yes,Yes,Yes,China,Direct - Home,In A Month,google_analytics ,"postgres,s3,ms_sql"
+2200@customer-leads.com,created account ,Yes,No,Cto,6213,Yes,Yes,No,Japan,Blog - Redshift - X to Y,This Quarter,"aurora,s3","postgres,s3,ms_sql"
+2201@customer-leads.com,request quote,No,No,Product manager,8887,No,Yes,Yes,Denmark,Blog - Redshift - Generic,Immediately,google_analytics ,redshift
+2202@customer-leads.com,contact us,No,Yes,Product manager,1292,Yes,Yes,Yes,India,Ads - ETL Tools,Early Exploration,"aurora,s3",ms_sql
+2203@customer-leads.com,created account ,Yes,No,Tech lead,4109,No,No,No,China,Direct - Home,In A Month,google_analytics ,"bigquery,s3"
+2204@customer-leads.com,created account ,Yes,Yes,Swe,2217,Yes,No,No,Japan,Blog - Generic,Early Exploration,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2205@customer-leads.com,request quote,No,Yes,Business analyst ,1710,No,Yes,Yes,Us,Blog - Generic,In A Month,"python,chartio,superset","bigquery,s3"
+2206@customer-leads.com,request quote,No,Yes,Cto,2932,No,Yes,No,China,Blog - Redshift - Generic,In A Month,google_analytics ,ms_sql
+2207@customer-leads.com,request quote,Yes,No,Swe,7149,Yes,No,Yes,India,Blog - Redshift - Generic,Immediately,"redshift,s3,tableau","bigquery,s3"
+2208@customer-leads.com,request quote,No,Yes,Business analyst ,1902,No,No,No,Denmark,Blog - Redshift - X to Y,Immediately,"mysql,ms_sql",ms_sql
+2209@customer-leads.com,created account ,Yes,No,Ceo,1113,Yes,Yes,Yes,Us,Ads - ETL Tools,Immediately,"redshift,s3,tableau",redshift
+2210@customer-leads.com,request quote,No,No,Business analyst ,2004,Yes,Yes,No,China,Blog - Redshift - X to Y,This Quarter,"aurora,s3",redshift
+2211@customer-leads.com,request demo ,No,Yes,Tech lead,3615,Yes,No,No,Germany,Direct - Home,Early Exploration,"mysql,ms_sql",redshift
+2212@customer-leads.com,contact us,No,No,Tech lead,5583,Yes,Yes,No,Japan,Direct - Home,In A Month,"mysql,ms_sql",redshift
+2213@customer-leads.com,created account ,Yes,No,Swe,2177,Yes,Yes,Yes,Germany,Blog - Generic,Early Exploration,"python,chartio,superset","snowflake,rds,ms_sql"
+2214@customer-leads.com,created account ,No,Yes,Swe,8029,Yes,No,Yes,Denmark,Blog - Generic,This Quarter,"aurora,s3",redshift
+2215@customer-leads.com,contact us,No,No,Ceo,4598,Yes,Yes,Yes,Denmark,Blog - Redshift - Generic,Immediately,"aurora,s3","bigquery,s3"
+2216@customer-leads.com,contact us,Yes,Yes,Tech lead,5761,Yes,Yes,Yes,Us,Blog - Redshift - Generic,This Quarter,google_analytics ,"postgres,s3,ms_sql"
+2217@customer-leads.com,created account ,Yes,No,Swe,2217,No,No,Yes,Us,Blog - Redshift - X to Y,In A Month,"aurora,s3","bigquery,s3"
+2218@customer-leads.com,created account ,No,Yes,Product manager,9203,No,No,No,India,Direct - Home,In A Month,google_analytics ,redshift
+2219@customer-leads.com,contact us,Yes,No,Business analyst ,9695,No,No,Yes,China,Ads - ETL Tools,This Quarter,google_analytics ,ms_sql
+2220@customer-leads.com,request quote,Yes,Yes,Cto,9931,Yes,Yes,No,Germany,Blog - Generic,Early Exploration,google_analytics ,"snowflake,rds,ms_sql"
+2221@customer-leads.com,created account ,No,No,Business analyst ,8561,Yes,Yes,No,China,Direct - Home,This Quarter,"mysql,ms_sql","snowflake,rds,ms_sql"
+2222@customer-leads.com,created account ,Yes,No,Business analyst ,197,Yes,No,No,Germany,Ads - ETL Tools,This Quarter,"mysql,ms_sql","snowflake,rds,ms_sql"
+2223@customer-leads.com,created account ,Yes,Yes,Cto,6865,Yes,Yes,Yes,Japan,Blog - Generic,Immediately,"aurora,s3","postgres,s3,ms_sql"
+2224@customer-leads.com,request quote,Yes,No,Cto,6214,No,Yes,No,India,Blog - Redshift - X to Y,In A Month,"python,chartio,superset","snowflake,rds,ms_sql"
+2225@customer-leads.com,request demo ,Yes,Yes,Tech lead,688,No,Yes,Yes,Japan,Blog - Redshift - X to Y,This Quarter,"redshift,s3,tableau","postgres,s3,ms_sql"
+2226@customer-leads.com,contact us,No,Yes,Cto,6549,No,Yes,Yes,Denmark,Blog - Redshift - Generic,In A Month,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2227@customer-leads.com,created account ,Yes,No,Business analyst ,2398,No,No,No,Japan,Blog - Redshift - X to Y,Immediately,"mysql,ms_sql",ms_sql
+2228@customer-leads.com,request quote,Yes,Yes,Swe,955,Yes,Yes,No,Germany,Direct - Home,In A Month,"python,chartio,superset",redshift
+2229@customer-leads.com,contact us,No,Yes,Cto,3649,No,Yes,Yes,China,Ads - ETL Tools,In A Month,"python,chartio,superset","postgres,s3,ms_sql"
+2230@customer-leads.com,contact us,Yes,No,Swe,4009,No,No,Yes,China,Direct - Home,In A Month,"aurora,s3","bigquery,s3"
+2231@customer-leads.com,contact us,No,No,Ceo,5747,Yes,No,No,Us,Blog - Generic,This Quarter,"python,chartio,superset",redshift
+2232@customer-leads.com,contact us,No,Yes,Tech lead,9122,No,Yes,No,Us,Direct - Home,Early Exploration,"aurora,s3",redshift
+2233@customer-leads.com,contact us,Yes,Yes,Tech lead,4315,No,Yes,Yes,Japan,Direct - Home,In A Month,"aurora,s3","snowflake,rds,ms_sql"
+2234@customer-leads.com,request demo ,No,No,Ceo,3269,No,Yes,Yes,Japan,Blog - Redshift - X to Y,This Quarter,"mysql,ms_sql","snowflake,rds,ms_sql"
+2235@customer-leads.com,request demo ,No,Yes,Business analyst ,6564,No,No,Yes,India,Blog - Redshift - Generic,In A Month,google_analytics ,redshift
+2236@customer-leads.com,request demo ,No,No,Product manager,9545,No,Yes,Yes,Us,Blog - Redshift - X to Y,Early Exploration,"aurora,s3","bigquery,s3"
+2237@customer-leads.com,request quote,No,No,Product manager,9399,No,No,Yes,Germany,Blog - Generic,Early Exploration,"mysql,ms_sql",redshift
+2238@customer-leads.com,created account ,No,Yes,Tech lead,6286,Yes,No,Yes,Denmark,Ads - ETL Tools,This Quarter,"aurora,s3","postgres,s3,ms_sql"
+2239@customer-leads.com,created account ,Yes,No,Cto,8923,No,No,Yes,Denmark,Blog - Generic,Immediately,"aurora,s3",ms_sql
+2240@customer-leads.com,request demo ,Yes,Yes,Business analyst ,1595,Yes,No,No,Denmark,Blog - Generic,Immediately,"redshift,s3,tableau",ms_sql
+2241@customer-leads.com,created account ,No,Yes,Ceo,1709,Yes,Yes,Yes,Germany,Blog - Generic,In A Month,"python,chartio,superset","bigquery,s3"
+2242@customer-leads.com,contact us,Yes,No,Ceo,1778,No,No,Yes,Us,Blog - Redshift - X to Y,This Quarter,google_analytics ,"bigquery,s3"
+2243@customer-leads.com,created account ,No,Yes,Business analyst ,3888,No,Yes,No,Germany,Blog - Redshift - Generic,This Quarter,"mysql,ms_sql",redshift
+2244@customer-leads.com,contact us,No,Yes,Product manager,2940,No,Yes,No,China,Blog - Generic,In A Month,"mysql,ms_sql","snowflake,rds,ms_sql"
+2245@customer-leads.com,contact us,Yes,No,Product manager,6682,Yes,No,Yes,Germany,Blog - Redshift - Generic,Immediately,"aurora,s3","postgres,s3,ms_sql"
+2246@customer-leads.com,created account ,Yes,No,Business analyst ,1187,No,Yes,Yes,China,Blog - Redshift - Generic,In A Month,"mysql,ms_sql",redshift
+2247@customer-leads.com,request demo ,Yes,Yes,Tech lead,366,No,No,Yes,Us,Blog - Generic,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+2248@customer-leads.com,request quote,No,Yes,Ceo,7178,Yes,No,Yes,Us,Blog - Redshift - X to Y,Immediately,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2249@customer-leads.com,request demo ,Yes,No,Swe,8648,No,No,No,China,Blog - Redshift - Generic,Immediately,"redshift,s3,tableau","postgres,s3,ms_sql"
+2250@customer-leads.com,request quote,No,Yes,Business analyst ,3250,No,Yes,Yes,Germany,Ads - ETL Tools,Early Exploration,"mysql,ms_sql","snowflake,rds,ms_sql"
+2251@customer-leads.com,request demo ,No,No,Tech lead,4240,No,No,Yes,India,Direct - Home,This Quarter,"python,chartio,superset",redshift
+2252@customer-leads.com,created account ,Yes,Yes,Cto,6484,No,No,Yes,Germany,Ads - ETL Tools,This Quarter,"python,chartio,superset",ms_sql
+2253@customer-leads.com,contact us,No,No,Cto,5362,No,No,No,India,Blog - Redshift - X to Y,In A Month,"aurora,s3","postgres,s3,ms_sql"
+2254@customer-leads.com,request demo ,Yes,No,Business analyst ,4732,No,Yes,Yes,Japan,Blog - Redshift - X to Y,In A Month,google_analytics ,"snowflake,rds,ms_sql"
+2255@customer-leads.com,request demo ,No,Yes,Tech lead,8029,No,No,No,Us,Blog - Redshift - X to Y,This Quarter,"python,chartio,superset","postgres,s3,ms_sql"
+2256@customer-leads.com,request quote,No,Yes,Ceo,2607,No,No,No,Japan,Ads - ETL Tools,This Quarter,google_analytics ,ms_sql
+2257@customer-leads.com,request demo ,No,Yes,Tech lead,2013,Yes,No,No,India,Ads - ETL Tools,Early Exploration,"mysql,ms_sql","bigquery,s3"
+2258@customer-leads.com,created account ,Yes,Yes,Swe,68,No,No,No,Japan,Blog - Generic,This Quarter,"mysql,ms_sql","bigquery,s3"
+2259@customer-leads.com,request demo ,Yes,No,Ceo,7432,Yes,No,No,Denmark,Blog - Generic,Immediately,google_analytics ,ms_sql
+2260@customer-leads.com,contact us,Yes,No,Tech lead,6252,Yes,Yes,No,China,Blog - Redshift - X to Y,This Quarter,"redshift,s3,tableau",ms_sql
+2261@customer-leads.com,request quote,No,No,Swe,7792,No,No,No,China,Blog - Redshift - X to Y,In A Month,"mysql,ms_sql","snowflake,rds,ms_sql"
+2262@customer-leads.com,request demo ,Yes,No,Business analyst ,2605,Yes,Yes,Yes,Us,Blog - Generic,This Quarter,"redshift,s3,tableau",redshift
+2263@customer-leads.com,contact us,Yes,Yes,Tech lead,4141,Yes,No,Yes,India,Blog - Redshift - X to Y,In A Month,"mysql,ms_sql","snowflake,rds,ms_sql"
+2264@customer-leads.com,contact us,Yes,No,Swe,2215,Yes,Yes,Yes,Denmark,Blog - Redshift - Generic,This Quarter,"redshift,s3,tableau","bigquery,s3"
+2265@customer-leads.com,contact us,Yes,No,Ceo,2183,Yes,No,Yes,Us,Blog - Redshift - Generic,Immediately,google_analytics ,"bigquery,s3"
+2266@customer-leads.com,contact us,No,Yes,Ceo,4512,Yes,Yes,No,Denmark,Ads - ETL Tools,This Quarter,"python,chartio,superset","postgres,s3,ms_sql"
+2267@customer-leads.com,contact us,Yes,Yes,Tech lead,8458,No,No,Yes,Germany,Ads - ETL Tools,This Quarter,"python,chartio,superset","postgres,s3,ms_sql"
+2268@customer-leads.com,request demo ,Yes,Yes,Tech lead,6958,No,No,No,Germany,Blog - Redshift - X to Y,This Quarter,"mysql,ms_sql",redshift
+2269@customer-leads.com,contact us,No,Yes,Cto,7580,Yes,Yes,No,India,Ads - ETL Tools,This Quarter,"redshift,s3,tableau",redshift
+2270@customer-leads.com,contact us,No,No,Tech lead,9538,No,No,No,India,Blog - Redshift - X to Y,In A Month,"mysql,ms_sql","snowflake,rds,ms_sql"
+2271@customer-leads.com,contact us,Yes,Yes,Cto,3785,No,No,Yes,Germany,Blog - Redshift - Generic,This Quarter,google_analytics ,"postgres,s3,ms_sql"
+2272@customer-leads.com,contact us,No,No,Product manager,9485,Yes,No,Yes,Germany,Direct - Home,In A Month,"mysql,ms_sql",ms_sql
+2273@customer-leads.com,contact us,No,No,Ceo,3065,Yes,No,Yes,Japan,Blog - Redshift - X to Y,This Quarter,google_analytics ,"snowflake,rds,ms_sql"
+2274@customer-leads.com,created account ,Yes,No,Business analyst ,1206,No,No,Yes,Denmark,Blog - Redshift - Generic,This Quarter,"python,chartio,superset",redshift
+2275@customer-leads.com,contact us,No,No,Tech lead,9285,No,No,Yes,India,Direct - Home,This Quarter,"redshift,s3,tableau",redshift
+2276@customer-leads.com,request quote,Yes,No,Ceo,6374,No,Yes,No,Us,Direct - Home,This Quarter,google_analytics ,"snowflake,rds,ms_sql"
+2277@customer-leads.com,contact us,No,Yes,Business analyst ,9482,Yes,Yes,Yes,Japan,Blog - Redshift - X to Y,Early Exploration,google_analytics ,redshift
+2278@customer-leads.com,request demo ,No,Yes,Business analyst ,5995,Yes,No,Yes,Denmark,Blog - Redshift - Generic,This Quarter,google_analytics ,ms_sql
+2279@customer-leads.com,request quote,Yes,Yes,Swe,3772,No,Yes,Yes,India,Blog - Redshift - Generic,Early Exploration,"redshift,s3,tableau",redshift
+2280@customer-leads.com,contact us,Yes,No,Product manager,8087,No,Yes,No,Germany,Blog - Generic,This Quarter,"python,chartio,superset",redshift
+2281@customer-leads.com,contact us,Yes,Yes,Tech lead,2269,No,No,Yes,Denmark,Ads - ETL Tools,This Quarter,"aurora,s3","snowflake,rds,ms_sql"
+2282@customer-leads.com,request quote,No,Yes,Tech lead,6724,No,No,No,Denmark,Direct - Home,Early Exploration,"python,chartio,superset","bigquery,s3"
+2283@customer-leads.com,request quote,Yes,No,Swe,2031,Yes,No,No,India,Blog - Generic,Early Exploration,"python,chartio,superset","bigquery,s3"
+2284@customer-leads.com,request demo ,No,Yes,Ceo,1601,Yes,Yes,Yes,Us,Blog - Generic,This Quarter,"aurora,s3","postgres,s3,ms_sql"
+2285@customer-leads.com,request quote,No,Yes,Cto,4745,Yes,No,No,China,Ads - ETL Tools,Immediately,google_analytics ,redshift
+2286@customer-leads.com,created account ,Yes,No,Product manager,8319,No,Yes,No,Us,Direct - Home,This Quarter,google_analytics ,ms_sql
+2287@customer-leads.com,request demo ,Yes,Yes,Product manager,2695,Yes,Yes,No,Germany,Blog - Redshift - X to Y,This Quarter,"aurora,s3",ms_sql
+2288@customer-leads.com,request quote,Yes,Yes,Tech lead,1643,No,Yes,No,Denmark,Blog - Redshift - Generic,Immediately,google_analytics ,"bigquery,s3"
+2289@customer-leads.com,request demo ,Yes,Yes,Product manager,9674,No,No,No,China,Blog - Generic,This Quarter,"mysql,ms_sql","snowflake,rds,ms_sql"
+2290@customer-leads.com,contact us,No,No,Product manager,447,No,No,No,Us,Ads - ETL Tools,This Quarter,google_analytics ,"snowflake,rds,ms_sql"
+2291@customer-leads.com,contact us,Yes,No,Business analyst ,9448,No,Yes,Yes,India,Blog - Generic,In A Month,google_analytics ,redshift
+2292@customer-leads.com,created account ,No,Yes,Product manager,2294,Yes,Yes,No,China,Blog - Generic,In A Month,google_analytics ,"snowflake,rds,ms_sql"
+2293@customer-leads.com,created account ,No,Yes,Business analyst ,2569,Yes,No,Yes,Japan,Blog - Redshift - X to Y,This Quarter,"redshift,s3,tableau","bigquery,s3"
+2294@customer-leads.com,contact us,Yes,No,Business analyst ,4217,Yes,No,No,Denmark,Direct - Home,This Quarter,"mysql,ms_sql",ms_sql
+2295@customer-leads.com,created account ,Yes,No,Cto,923,Yes,No,Yes,Japan,Blog - Redshift - Generic,Early Exploration,"aurora,s3","bigquery,s3"
+2296@customer-leads.com,created account ,Yes,Yes,Product manager,9306,Yes,Yes,Yes,India,Blog - Redshift - X to Y,Immediately,"aurora,s3","bigquery,s3"
+2297@customer-leads.com,created account ,No,No,Cto,8881,No,No,Yes,Denmark,Blog - Generic,Early Exploration,"aurora,s3","bigquery,s3"
+2298@customer-leads.com,contact us,No,No,Business analyst ,6390,No,No,No,Japan,Blog - Redshift - X to Y,In A Month,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2299@customer-leads.com,created account ,No,Yes,Product manager,1702,No,No,Yes,China,Blog - Redshift - X to Y,In A Month,"mysql,ms_sql","snowflake,rds,ms_sql"
+2300@customer-leads.com,created account ,No,Yes,Tech lead,9468,No,No,Yes,Germany,Blog - Generic,In A Month,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2301@customer-leads.com,created account ,No,Yes,Cto,9446,Yes,No,No,Us,Blog - Redshift - X to Y,In A Month,"aurora,s3",ms_sql
+2302@customer-leads.com,contact us,Yes,Yes,Cto,5223,Yes,No,Yes,Denmark,Blog - Redshift - X to Y,Immediately,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2303@customer-leads.com,request quote,Yes,No,Business analyst ,7803,No,Yes,No,Us,Blog - Redshift - X to Y,Immediately,google_analytics ,ms_sql
+2304@customer-leads.com,request demo ,No,Yes,Cto,3356,No,Yes,No,Germany,Direct - Home,This Quarter,google_analytics ,redshift
+2305@customer-leads.com,request demo ,Yes,Yes,Product manager,3252,No,Yes,No,Us,Blog - Generic,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+2306@customer-leads.com,request quote,No,Yes,Business analyst ,5377,No,Yes,No,Japan,Blog - Redshift - X to Y,Early Exploration,"aurora,s3","bigquery,s3"
+2307@customer-leads.com,request quote,Yes,No,Business analyst ,8627,Yes,No,No,China,Blog - Generic,Immediately,"redshift,s3,tableau",ms_sql
+2308@customer-leads.com,created account ,Yes,No,Tech lead,6363,Yes,Yes,No,China,Direct - Home,In A Month,"mysql,ms_sql",redshift
+2309@customer-leads.com,created account ,Yes,No,Product manager,4170,Yes,No,No,China,Blog - Generic,Immediately,google_analytics ,redshift
+2310@customer-leads.com,request quote,No,Yes,Tech lead,2349,No,No,No,Germany,Ads - ETL Tools,Immediately,"python,chartio,superset","postgres,s3,ms_sql"
+2311@customer-leads.com,request demo ,Yes,No,Swe,4876,No,No,No,China,Blog - Redshift - Generic,Early Exploration,"redshift,s3,tableau",ms_sql
+2312@customer-leads.com,created account ,No,Yes,Cto,7344,Yes,No,Yes,Germany,Ads - ETL Tools,In A Month,"mysql,ms_sql","postgres,s3,ms_sql"
+2313@customer-leads.com,request demo ,No,Yes,Cto,8878,No,No,Yes,Us,Ads - ETL Tools,Immediately,google_analytics ,ms_sql
+2314@customer-leads.com,contact us,Yes,Yes,Tech lead,4450,No,Yes,No,Germany,Ads - ETL Tools,In A Month,"redshift,s3,tableau",ms_sql
+2315@customer-leads.com,request quote,No,No,Tech lead,6122,No,Yes,Yes,Japan,Blog - Redshift - Generic,This Quarter,"redshift,s3,tableau","postgres,s3,ms_sql"
+2316@customer-leads.com,request demo ,Yes,Yes,Business analyst ,2691,Yes,No,Yes,China,Blog - Generic,This Quarter,"redshift,s3,tableau",ms_sql
+2317@customer-leads.com,created account ,No,Yes,Business analyst ,9000,Yes,No,Yes,Japan,Blog - Generic,Immediately,google_analytics ,redshift
+2318@customer-leads.com,request demo ,No,No,Product manager,7660,Yes,Yes,No,India,Blog - Redshift - X to Y,In A Month,"mysql,ms_sql",ms_sql
+2319@customer-leads.com,request quote,Yes,Yes,Ceo,2927,Yes,No,Yes,Us,Ads - ETL Tools,Early Exploration,"redshift,s3,tableau",ms_sql
+2320@customer-leads.com,request demo ,Yes,Yes,Tech lead,7163,Yes,No,Yes,Germany,Blog - Redshift - Generic,Immediately,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2321@customer-leads.com,created account ,Yes,No,Swe,2104,No,No,No,Denmark,Blog - Generic,This Quarter,"redshift,s3,tableau",redshift
+2322@customer-leads.com,created account ,Yes,Yes,Tech lead,1265,No,Yes,Yes,Us,Blog - Generic,Immediately,"redshift,s3,tableau","postgres,s3,ms_sql"
+2323@customer-leads.com,created account ,Yes,Yes,Business analyst ,6598,Yes,Yes,Yes,Denmark,Blog - Redshift - Generic,This Quarter,"python,chartio,superset",redshift
+2324@customer-leads.com,request demo ,No,Yes,Ceo,862,No,No,Yes,China,Blog - Redshift - X to Y,In A Month,"redshift,s3,tableau",redshift
+2325@customer-leads.com,contact us,Yes,Yes,Product manager,5788,No,No,No,Us,Blog - Generic,This Quarter,"aurora,s3","bigquery,s3"
+2326@customer-leads.com,contact us,No,No,Cto,9151,Yes,Yes,Yes,Denmark,Direct - Home,Immediately,"python,chartio,superset","postgres,s3,ms_sql"
+2327@customer-leads.com,contact us,Yes,No,Ceo,9653,No,Yes,Yes,Germany,Direct - Home,In A Month,"python,chartio,superset",ms_sql
+2328@customer-leads.com,request demo ,Yes,Yes,Ceo,1924,No,No,Yes,Japan,Direct - Home,This Quarter,"python,chartio,superset","bigquery,s3"
+2329@customer-leads.com,request quote,Yes,Yes,Business analyst ,7201,Yes,Yes,Yes,Us,Blog - Redshift - X to Y,Early Exploration,"python,chartio,superset","snowflake,rds,ms_sql"
+2330@customer-leads.com,created account ,No,Yes,Cto,2319,No,No,Yes,Germany,Blog - Redshift - X to Y,Early Exploration,"mysql,ms_sql","snowflake,rds,ms_sql"
+2331@customer-leads.com,request quote,No,No,Product manager,693,No,Yes,No,China,Blog - Generic,In A Month,google_analytics ,"bigquery,s3"
+2332@customer-leads.com,request demo ,No,No,Business analyst ,5643,Yes,Yes,No,Japan,Direct - Home,In A Month,google_analytics ,redshift
+2333@customer-leads.com,request quote,No,No,Business analyst ,5634,No,No,Yes,China,Blog - Redshift - X to Y,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+2334@customer-leads.com,request demo ,Yes,Yes,Product manager,2675,No,Yes,Yes,Germany,Blog - Redshift - X to Y,Early Exploration,"python,chartio,superset","bigquery,s3"
+2335@customer-leads.com,created account ,No,Yes,Ceo,6602,No,No,No,India,Blog - Redshift - Generic,This Quarter,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2336@customer-leads.com,contact us,Yes,No,Swe,6240,Yes,Yes,Yes,Germany,Blog - Generic,Immediately,google_analytics ,redshift
+2337@customer-leads.com,contact us,Yes,Yes,Tech lead,1569,Yes,No,Yes,Germany,Ads - ETL Tools,This Quarter,google_analytics ,"bigquery,s3"
+2338@customer-leads.com,request quote,No,No,Business analyst ,4747,No,Yes,Yes,India,Blog - Generic,In A Month,"mysql,ms_sql","bigquery,s3"
+2339@customer-leads.com,created account ,Yes,No,Ceo,5207,Yes,No,No,India,Ads - ETL Tools,In A Month,"redshift,s3,tableau","bigquery,s3"
+2340@customer-leads.com,contact us,Yes,Yes,Swe,8459,No,Yes,No,Denmark,Blog - Redshift - X to Y,Early Exploration,"mysql,ms_sql","bigquery,s3"
+2341@customer-leads.com,request quote,No,Yes,Ceo,3321,Yes,No,No,China,Blog - Generic,This Quarter,"mysql,ms_sql",ms_sql
+2342@customer-leads.com,request quote,Yes,Yes,Cto,150,Yes,No,Yes,China,Direct - Home,Immediately,google_analytics ,"bigquery,s3"
+2343@customer-leads.com,request quote,Yes,No,Ceo,9765,No,Yes,Yes,Germany,Direct - Home,This Quarter,"mysql,ms_sql",redshift
+2344@customer-leads.com,created account ,No,Yes,Tech lead,6075,No,Yes,Yes,India,Blog - Generic,This Quarter,"python,chartio,superset",redshift
+2345@customer-leads.com,request demo ,No,No,Business analyst ,1353,Yes,Yes,No,India,Blog - Redshift - Generic,In A Month,"python,chartio,superset","bigquery,s3"
+2346@customer-leads.com,created account ,No,No,Ceo,5170,No,Yes,No,China,Ads - ETL Tools,Immediately,"aurora,s3","snowflake,rds,ms_sql"
+2347@customer-leads.com,request quote,Yes,Yes,Tech lead,5369,No,No,No,Denmark,Blog - Redshift - X to Y,This Quarter,"aurora,s3","bigquery,s3"
+2348@customer-leads.com,request quote,Yes,Yes,Product manager,2766,No,Yes,No,Denmark,Blog - Redshift - X to Y,In A Month,"aurora,s3","snowflake,rds,ms_sql"
+2349@customer-leads.com,request demo ,Yes,No,Cto,9578,Yes,No,No,Denmark,Direct - Home,Early Exploration,"aurora,s3","postgres,s3,ms_sql"
+2350@customer-leads.com,contact us,Yes,No,Tech lead,2870,No,Yes,No,Denmark,Blog - Redshift - X to Y,This Quarter,"redshift,s3,tableau",redshift
+2351@customer-leads.com,request demo ,Yes,No,Tech lead,7559,No,Yes,Yes,Germany,Blog - Redshift - X to Y,This Quarter,google_analytics ,"snowflake,rds,ms_sql"
+2352@customer-leads.com,created account ,Yes,No,Swe,3224,Yes,No,No,Japan,Direct - Home,This Quarter,"aurora,s3",redshift
+2353@customer-leads.com,request quote,No,Yes,Cto,4366,Yes,Yes,Yes,Us,Direct - Home,In A Month,google_analytics ,"snowflake,rds,ms_sql"
+2354@customer-leads.com,request quote,No,No,Business analyst ,4916,Yes,No,No,Denmark,Blog - Redshift - X to Y,This Quarter,"python,chartio,superset","snowflake,rds,ms_sql"
+2355@customer-leads.com,request quote,No,No,Business analyst ,7745,No,Yes,Yes,Denmark,Direct - Home,Immediately,"aurora,s3","postgres,s3,ms_sql"
+2356@customer-leads.com,contact us,No,Yes,Product manager,4587,No,No,No,Denmark,Blog - Redshift - X to Y,In A Month,google_analytics ,"postgres,s3,ms_sql"
+2357@customer-leads.com,contact us,Yes,Yes,Business analyst ,866,No,Yes,No,China,Blog - Redshift - Generic,Immediately,"mysql,ms_sql","snowflake,rds,ms_sql"
+2358@customer-leads.com,request demo ,No,No,Product manager,6660,No,No,No,Denmark,Direct - Home,In A Month,google_analytics ,"snowflake,rds,ms_sql"
+2359@customer-leads.com,request quote,No,No,Product manager,6808,No,No,No,India,Direct - Home,Early Exploration,"aurora,s3","postgres,s3,ms_sql"
+2360@customer-leads.com,contact us,Yes,No,Ceo,8342,Yes,Yes,Yes,Denmark,Blog - Generic,This Quarter,"python,chartio,superset",ms_sql
+2361@customer-leads.com,request quote,No,Yes,Ceo,3095,Yes,No,Yes,China,Blog - Redshift - X to Y,Immediately,"aurora,s3",redshift
+2362@customer-leads.com,contact us,No,No,Ceo,1725,No,No,No,Japan,Ads - ETL Tools,Immediately,"aurora,s3","postgres,s3,ms_sql"
+2363@customer-leads.com,created account ,Yes,Yes,Product manager,5998,Yes,Yes,Yes,Japan,Blog - Redshift - Generic,Early Exploration,"python,chartio,superset","snowflake,rds,ms_sql"
+2364@customer-leads.com,contact us,No,No,Swe,9413,No,No,No,Japan,Blog - Generic,Early Exploration,google_analytics ,"postgres,s3,ms_sql"
+2365@customer-leads.com,request quote,Yes,No,Business analyst ,2671,No,No,No,Denmark,Blog - Redshift - Generic,This Quarter,"mysql,ms_sql","snowflake,rds,ms_sql"
+2366@customer-leads.com,request demo ,Yes,Yes,Ceo,3453,No,No,No,Denmark,Blog - Generic,In A Month,"aurora,s3","postgres,s3,ms_sql"
+2367@customer-leads.com,request quote,No,No,Ceo,6459,No,Yes,Yes,Us,Blog - Generic,In A Month,"aurora,s3",redshift
+2368@customer-leads.com,request quote,Yes,Yes,Ceo,7010,No,No,Yes,Us,Blog - Redshift - X to Y,This Quarter,"redshift,s3,tableau","postgres,s3,ms_sql"
+2369@customer-leads.com,created account ,No,No,Swe,3611,Yes,Yes,No,Japan,Direct - Home,Immediately,"python,chartio,superset","bigquery,s3"
+2370@customer-leads.com,contact us,No,No,Ceo,2872,No,No,No,Denmark,Ads - ETL Tools,This Quarter,google_analytics ,ms_sql
+2371@customer-leads.com,request demo ,Yes,Yes,Business analyst ,5257,No,Yes,No,Denmark,Blog - Redshift - Generic,Early Exploration,"redshift,s3,tableau","postgres,s3,ms_sql"
+2372@customer-leads.com,request quote,No,Yes,Business analyst ,9008,Yes,No,No,India,Blog - Redshift - X to Y,Early Exploration,google_analytics ,redshift
+2373@customer-leads.com,request demo ,No,Yes,Cto,6210,No,No,No,Denmark,Direct - Home,Early Exploration,"redshift,s3,tableau","postgres,s3,ms_sql"
+2374@customer-leads.com,contact us,No,No,Cto,5762,No,Yes,Yes,Us,Blog - Redshift - Generic,Early Exploration,"redshift,s3,tableau","bigquery,s3"
+2375@customer-leads.com,request demo ,Yes,Yes,Business analyst ,8868,No,Yes,No,Us,Blog - Generic,Immediately,google_analytics ,"snowflake,rds,ms_sql"
+2376@customer-leads.com,created account ,No,Yes,Tech lead,8408,No,No,Yes,Germany,Ads - ETL Tools,This Quarter,google_analytics ,"postgres,s3,ms_sql"
+2377@customer-leads.com,request demo ,Yes,No,Business analyst ,9501,No,Yes,No,Denmark,Blog - Redshift - X to Y,Immediately,"aurora,s3","bigquery,s3"
+2378@customer-leads.com,request demo ,Yes,Yes,Cto,2777,No,Yes,No,Denmark,Blog - Redshift - X to Y,Early Exploration,"aurora,s3","postgres,s3,ms_sql"
+2379@customer-leads.com,request quote,No,No,Tech lead,6850,No,Yes,No,China,Blog - Redshift - X to Y,Early Exploration,"redshift,s3,tableau","postgres,s3,ms_sql"
+2380@customer-leads.com,created account ,No,No,Business analyst ,3166,Yes,Yes,Yes,Japan,Blog - Generic,Early Exploration,"redshift,s3,tableau",redshift
+2381@customer-leads.com,request demo ,Yes,No,Product manager,6131,Yes,No,No,Japan,Blog - Redshift - Generic,Early Exploration,"mysql,ms_sql",redshift
+2382@customer-leads.com,created account ,No,No,Product manager,1962,No,No,Yes,India,Ads - ETL Tools,Early Exploration,google_analytics ,redshift
+2383@customer-leads.com,created account ,Yes,No,Business analyst ,466,No,Yes,Yes,Japan,Blog - Redshift - Generic,In A Month,"mysql,ms_sql",redshift
+2384@customer-leads.com,contact us,No,Yes,Ceo,5461,Yes,No,Yes,China,Ads - ETL Tools,In A Month,"aurora,s3","bigquery,s3"
+2385@customer-leads.com,request demo ,No,No,Ceo,5016,No,No,Yes,Germany,Blog - Redshift - Generic,This Quarter,"mysql,ms_sql","snowflake,rds,ms_sql"
+2386@customer-leads.com,created account ,Yes,Yes,Ceo,4087,Yes,No,No,Japan,Blog - Redshift - X to Y,Immediately,"mysql,ms_sql","snowflake,rds,ms_sql"
+2387@customer-leads.com,request demo ,No,Yes,Business analyst ,6706,No,No,No,Us,Ads - ETL Tools,Immediately,google_analytics ,ms_sql
+2388@customer-leads.com,contact us,Yes,Yes,Ceo,3811,Yes,No,No,Us,Blog - Redshift - Generic,Immediately,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2389@customer-leads.com,created account ,No,Yes,Ceo,3608,No,No,No,Japan,Direct - Home,In A Month,"redshift,s3,tableau",ms_sql
+2390@customer-leads.com,contact us,No,Yes,Cto,4895,No,No,No,Denmark,Blog - Redshift - Generic,Early Exploration,"python,chartio,superset",redshift
+2391@customer-leads.com,request demo ,No,Yes,Tech lead,5586,Yes,No,Yes,Denmark,Blog - Generic,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+2392@customer-leads.com,request quote,Yes,Yes,Product manager,8731,Yes,Yes,No,Us,Blog - Redshift - Generic,Immediately,google_analytics ,ms_sql
+2393@customer-leads.com,created account ,Yes,No,Product manager,8283,No,No,Yes,Germany,Blog - Redshift - Generic,This Quarter,"mysql,ms_sql",ms_sql
+2394@customer-leads.com,request demo ,No,No,Cto,8430,Yes,No,Yes,Denmark,Blog - Redshift - Generic,This Quarter,"redshift,s3,tableau",redshift
+2395@customer-leads.com,request quote,No,No,Cto,7378,Yes,No,No,China,Blog - Redshift - X to Y,Immediately,"aurora,s3","snowflake,rds,ms_sql"
+2396@customer-leads.com,request demo ,Yes,No,Business analyst ,210,No,Yes,Yes,China,Blog - Generic,In A Month,"python,chartio,superset","snowflake,rds,ms_sql"
+2397@customer-leads.com,request quote,Yes,No,Swe,6141,Yes,Yes,Yes,India,Direct - Home,In A Month,"aurora,s3",redshift
+2398@customer-leads.com,request demo ,No,Yes,Tech lead,9482,Yes,No,No,Japan,Direct - Home,Early Exploration,google_analytics ,redshift
+2399@customer-leads.com,request demo ,No,Yes,Ceo,113,Yes,No,Yes,Germany,Blog - Generic,Immediately,"python,chartio,superset","postgres,s3,ms_sql"
+2400@customer-leads.com,contact us,No,Yes,Business analyst ,5013,Yes,No,No,Japan,Blog - Generic,Early Exploration,google_analytics ,"snowflake,rds,ms_sql"
+2401@customer-leads.com,request quote,No,No,Swe,3954,Yes,No,No,Us,Direct - Home,In A Month,"python,chartio,superset",ms_sql
+2402@customer-leads.com,request quote,Yes,No,Tech lead,3820,No,No,Yes,Germany,Ads - ETL Tools,In A Month,"redshift,s3,tableau","bigquery,s3"
+2403@customer-leads.com,contact us,Yes,No,Tech lead,8946,No,No,No,China,Ads - ETL Tools,This Quarter,"python,chartio,superset","snowflake,rds,ms_sql"
+2404@customer-leads.com,created account ,Yes,Yes,Tech lead,1703,No,Yes,No,Us,Blog - Redshift - Generic,This Quarter,"python,chartio,superset",ms_sql
+2405@customer-leads.com,created account ,Yes,No,Cto,6677,No,No,No,India,Direct - Home,In A Month,"python,chartio,superset",redshift
+2406@customer-leads.com,request demo ,Yes,No,Tech lead,9666,Yes,Yes,Yes,Germany,Ads - ETL Tools,In A Month,"python,chartio,superset","snowflake,rds,ms_sql"
+2407@customer-leads.com,request quote,No,No,Tech lead,9041,Yes,No,Yes,Germany,Blog - Redshift - Generic,This Quarter,"aurora,s3","snowflake,rds,ms_sql"
+2408@customer-leads.com,created account ,No,Yes,Ceo,3246,No,Yes,Yes,Us,Direct - Home,In A Month,"python,chartio,superset","bigquery,s3"
+2409@customer-leads.com,request demo ,Yes,Yes,Business analyst ,3900,Yes,No,No,Denmark,Blog - Redshift - Generic,Early Exploration,"mysql,ms_sql",redshift
+2410@customer-leads.com,contact us,Yes,No,Cto,7516,Yes,No,No,China,Blog - Redshift - Generic,Early Exploration,"redshift,s3,tableau",ms_sql
+2411@customer-leads.com,request demo ,No,Yes,Product manager,8192,No,No,Yes,Denmark,Ads - ETL Tools,This Quarter,"mysql,ms_sql","bigquery,s3"
+2412@customer-leads.com,request demo ,No,No,Swe,2551,No,No,Yes,Germany,Blog - Generic,In A Month,"python,chartio,superset","bigquery,s3"
+2413@customer-leads.com,request quote,No,No,Business analyst ,5545,No,Yes,No,India,Ads - ETL Tools,In A Month,"mysql,ms_sql","bigquery,s3"
+2414@customer-leads.com,contact us,Yes,Yes,Tech lead,1784,Yes,Yes,No,Germany,Blog - Redshift - Generic,This Quarter,"mysql,ms_sql","bigquery,s3"
+2415@customer-leads.com,contact us,No,Yes,Business analyst ,5386,Yes,Yes,No,Us,Ads - ETL Tools,This Quarter,"mysql,ms_sql",ms_sql
+2416@customer-leads.com,created account ,No,No,Product manager,8109,No,Yes,No,Denmark,Ads - ETL Tools,Immediately,"python,chartio,superset","postgres,s3,ms_sql"
+2417@customer-leads.com,request quote,No,Yes,Swe,5026,Yes,No,Yes,Us,Ads - ETL Tools,Immediately,"redshift,s3,tableau","bigquery,s3"
+2418@customer-leads.com,request quote,No,No,Ceo,6202,Yes,Yes,Yes,India,Blog - Generic,This Quarter,"python,chartio,superset","bigquery,s3"
+2419@customer-leads.com,request demo ,Yes,No,Cto,7209,Yes,Yes,Yes,Germany,Blog - Generic,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+2420@customer-leads.com,request quote,Yes,Yes,Cto,6216,Yes,No,Yes,India,Ads - ETL Tools,Immediately,"mysql,ms_sql",redshift
+2421@customer-leads.com,created account ,No,Yes,Business analyst ,5532,No,No,Yes,Germany,Blog - Generic,Immediately,google_analytics ,"postgres,s3,ms_sql"
+2422@customer-leads.com,created account ,No,Yes,Swe,279,No,No,Yes,Us,Blog - Generic,Immediately,"redshift,s3,tableau",redshift
+2423@customer-leads.com,request demo ,Yes,No,Swe,2554,No,Yes,Yes,Japan,Blog - Redshift - Generic,Early Exploration,"redshift,s3,tableau","bigquery,s3"
+2424@customer-leads.com,request demo ,No,Yes,Cto,7254,No,Yes,Yes,Germany,Blog - Redshift - Generic,Immediately,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2425@customer-leads.com,request quote,No,No,Swe,6287,No,Yes,Yes,China,Direct - Home,Immediately,"python,chartio,superset",ms_sql
+2426@customer-leads.com,contact us,Yes,Yes,Business analyst ,5622,Yes,Yes,No,Denmark,Blog - Redshift - X to Y,In A Month,"aurora,s3","postgres,s3,ms_sql"
+2427@customer-leads.com,request demo ,Yes,No,Swe,8198,Yes,No,No,China,Blog - Redshift - X to Y,Early Exploration,"redshift,s3,tableau",redshift
+2428@customer-leads.com,request demo ,Yes,No,Product manager,8222,Yes,Yes,Yes,Denmark,Ads - ETL Tools,This Quarter,"python,chartio,superset","bigquery,s3"
+2429@customer-leads.com,created account ,No,Yes,Swe,1203,No,Yes,Yes,Japan,Blog - Redshift - X to Y,In A Month,"aurora,s3",ms_sql
+2430@customer-leads.com,created account ,Yes,Yes,Business analyst ,7382,Yes,Yes,Yes,China,Blog - Generic,This Quarter,"aurora,s3","bigquery,s3"
+2431@customer-leads.com,request quote,No,Yes,Tech lead,6303,No,Yes,No,China,Direct - Home,Immediately,"redshift,s3,tableau",ms_sql
+2432@customer-leads.com,request quote,Yes,Yes,Tech lead,2440,Yes,Yes,No,Denmark,Blog - Redshift - X to Y,In A Month,"redshift,s3,tableau",redshift
+2433@customer-leads.com,created account ,Yes,No,Cto,61,No,Yes,Yes,India,Blog - Redshift - Generic,Immediately,"python,chartio,superset","snowflake,rds,ms_sql"
+2434@customer-leads.com,contact us,Yes,No,Cto,2433,Yes,Yes,Yes,Us,Blog - Redshift - X to Y,In A Month,"redshift,s3,tableau",ms_sql
+2435@customer-leads.com,request demo ,No,No,Cto,8788,Yes,Yes,Yes,Japan,Blog - Redshift - Generic,In A Month,"mysql,ms_sql","bigquery,s3"
+2436@customer-leads.com,request demo ,Yes,Yes,Swe,4522,Yes,No,No,India,Blog - Redshift - X to Y,In A Month,"python,chartio,superset","postgres,s3,ms_sql"
+2437@customer-leads.com,created account ,Yes,Yes,Business analyst ,8949,Yes,Yes,No,Japan,Ads - ETL Tools,Immediately,google_analytics ,"bigquery,s3"
+2438@customer-leads.com,created account ,No,No,Business analyst ,7212,Yes,No,No,Us,Ads - ETL Tools,This Quarter,google_analytics ,"snowflake,rds,ms_sql"
+2439@customer-leads.com,request quote,Yes,Yes,Swe,7549,Yes,Yes,Yes,Germany,Direct - Home,This Quarter,google_analytics ,ms_sql
+2440@customer-leads.com,created account ,No,No,Ceo,7808,Yes,Yes,No,China,Ads - ETL Tools,In A Month,google_analytics ,"bigquery,s3"
+2441@customer-leads.com,created account ,Yes,No,Tech lead,364,No,Yes,Yes,Us,Blog - Redshift - Generic,In A Month,"redshift,s3,tableau",redshift
+2442@customer-leads.com,request demo ,No,No,Ceo,8585,Yes,Yes,Yes,China,Direct - Home,Immediately,"aurora,s3","snowflake,rds,ms_sql"
+2443@customer-leads.com,request quote,Yes,Yes,Business analyst ,7824,Yes,Yes,No,Germany,Blog - Generic,Early Exploration,"python,chartio,superset",redshift
+2444@customer-leads.com,request demo ,No,Yes,Swe,7937,Yes,No,Yes,Germany,Direct - Home,Immediately,"python,chartio,superset","bigquery,s3"
+2445@customer-leads.com,contact us,No,No,Ceo,4723,Yes,Yes,Yes,Japan,Blog - Redshift - X to Y,Early Exploration,"python,chartio,superset","bigquery,s3"
+2446@customer-leads.com,request quote,No,Yes,Business analyst ,4875,No,Yes,Yes,Denmark,Blog - Generic,This Quarter,"mysql,ms_sql",redshift
+2447@customer-leads.com,request demo ,No,No,Business analyst ,3112,No,No,No,Denmark,Blog - Generic,This Quarter,google_analytics ,"bigquery,s3"
+2448@customer-leads.com,created account ,No,Yes,Ceo,5383,No,No,Yes,India,Blog - Generic,Immediately,"aurora,s3",ms_sql
+2449@customer-leads.com,contact us,No,Yes,Product manager,4870,Yes,Yes,No,China,Ads - ETL Tools,Early Exploration,"aurora,s3","bigquery,s3"
+2450@customer-leads.com,created account ,No,Yes,Ceo,487,Yes,No,Yes,Japan,Blog - Redshift - Generic,Early Exploration,"python,chartio,superset","bigquery,s3"
+2451@customer-leads.com,contact us,Yes,No,Ceo,4252,No,No,No,Japan,Direct - Home,In A Month,"mysql,ms_sql","postgres,s3,ms_sql"
+2452@customer-leads.com,request demo ,No,No,Cto,8663,No,No,Yes,Germany,Direct - Home,Immediately,google_analytics ,ms_sql
+2453@customer-leads.com,request quote,No,Yes,Tech lead,9729,Yes,Yes,Yes,Denmark,Ads - ETL Tools,Immediately,google_analytics ,redshift
+2454@customer-leads.com,request quote,No,Yes,Cto,9226,No,Yes,No,China,Direct - Home,Early Exploration,"aurora,s3",ms_sql
+2455@customer-leads.com,created account ,No,Yes,Tech lead,5673,Yes,Yes,No,India,Blog - Generic,In A Month,"mysql,ms_sql",redshift
+2456@customer-leads.com,request demo ,No,No,Product manager,9837,No,Yes,Yes,India,Direct - Home,This Quarter,google_analytics ,"postgres,s3,ms_sql"
+2457@customer-leads.com,contact us,Yes,No,Tech lead,651,No,No,Yes,Us,Blog - Redshift - Generic,This Quarter,google_analytics ,ms_sql
+2458@customer-leads.com,request quote,No,No,Cto,8602,Yes,Yes,No,India,Blog - Redshift - X to Y,This Quarter,google_analytics ,redshift
+2459@customer-leads.com,request demo ,No,Yes,Cto,1413,Yes,Yes,No,Germany,Blog - Redshift - X to Y,This Quarter,"python,chartio,superset","snowflake,rds,ms_sql"
+2460@customer-leads.com,created account ,Yes,No,Business analyst ,7345,Yes,Yes,Yes,Us,Ads - ETL Tools,This Quarter,google_analytics ,"snowflake,rds,ms_sql"
+2461@customer-leads.com,contact us,No,No,Business analyst ,5194,Yes,Yes,Yes,Us,Blog - Generic,Immediately,google_analytics ,ms_sql
+2462@customer-leads.com,contact us,Yes,Yes,Cto,1033,No,No,No,China,Blog - Redshift - X to Y,Immediately,"mysql,ms_sql","postgres,s3,ms_sql"
+2463@customer-leads.com,contact us,No,Yes,Business analyst ,821,No,Yes,Yes,China,Ads - ETL Tools,In A Month,"python,chartio,superset","snowflake,rds,ms_sql"
+2464@customer-leads.com,request demo ,No,Yes,Business analyst ,2531,No,Yes,No,Us,Direct - Home,This Quarter,"aurora,s3",ms_sql
+2465@customer-leads.com,created account ,No,Yes,Tech lead,1810,Yes,No,No,Denmark,Blog - Redshift - Generic,Immediately,"redshift,s3,tableau",ms_sql
+2466@customer-leads.com,created account ,No,No,Tech lead,2804,No,Yes,No,Germany,Blog - Redshift - X to Y,Immediately,google_analytics ,redshift
+2467@customer-leads.com,request demo ,Yes,No,Ceo,4280,Yes,No,Yes,Germany,Direct - Home,This Quarter,"mysql,ms_sql","bigquery,s3"
+2468@customer-leads.com,contact us,Yes,Yes,Business analyst ,8950,Yes,Yes,No,Japan,Blog - Generic,In A Month,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2469@customer-leads.com,contact us,Yes,Yes,Cto,6311,No,Yes,No,Denmark,Blog - Redshift - Generic,This Quarter,google_analytics ,"snowflake,rds,ms_sql"
+2470@customer-leads.com,contact us,No,Yes,Cto,5953,No,Yes,Yes,China,Blog - Redshift - Generic,This Quarter,google_analytics ,redshift
+2471@customer-leads.com,created account ,Yes,No,Ceo,4457,Yes,No,No,Germany,Direct - Home,Immediately,"aurora,s3",ms_sql
+2472@customer-leads.com,created account ,Yes,Yes,Ceo,6601,Yes,No,No,Denmark,Blog - Redshift - Generic,In A Month,"python,chartio,superset","bigquery,s3"
+2473@customer-leads.com,request quote,No,No,Tech lead,5444,No,Yes,Yes,India,Blog - Redshift - Generic,Early Exploration,"aurora,s3","snowflake,rds,ms_sql"
+2474@customer-leads.com,contact us,No,Yes,Swe,6575,Yes,No,No,China,Blog - Redshift - X to Y,Early Exploration,"python,chartio,superset","bigquery,s3"
+2475@customer-leads.com,request demo ,Yes,Yes,Tech lead,6841,No,No,Yes,Japan,Blog - Generic,This Quarter,"mysql,ms_sql","snowflake,rds,ms_sql"
+2476@customer-leads.com,request demo ,No,Yes,Business analyst ,1708,No,No,No,Japan,Ads - ETL Tools,Early Exploration,"redshift,s3,tableau","bigquery,s3"
+2477@customer-leads.com,request quote,Yes,Yes,Cto,4433,No,No,No,Japan,Direct - Home,In A Month,google_analytics ,"bigquery,s3"
+2478@customer-leads.com,contact us,No,Yes,Swe,5642,Yes,Yes,Yes,Us,Direct - Home,This Quarter,"python,chartio,superset","snowflake,rds,ms_sql"
+2479@customer-leads.com,created account ,No,No,Tech lead,6093,No,Yes,Yes,Germany,Direct - Home,In A Month,google_analytics ,"postgres,s3,ms_sql"
+2480@customer-leads.com,created account ,Yes,No,Cto,328,No,No,No,Denmark,Ads - ETL Tools,Early Exploration,"aurora,s3",ms_sql
+2481@customer-leads.com,request demo ,No,No,Cto,1430,Yes,Yes,Yes,India,Direct - Home,In A Month,"mysql,ms_sql",ms_sql
+2482@customer-leads.com,contact us,Yes,Yes,Product manager,3519,Yes,Yes,No,Denmark,Blog - Redshift - Generic,Early Exploration,"aurora,s3",redshift
+2483@customer-leads.com,created account ,No,Yes,Product manager,8940,Yes,No,Yes,Japan,Direct - Home,Immediately,"python,chartio,superset",ms_sql
+2484@customer-leads.com,contact us,No,Yes,Tech lead,1209,Yes,Yes,No,Japan,Blog - Redshift - Generic,In A Month,"aurora,s3","postgres,s3,ms_sql"
+2485@customer-leads.com,request demo ,No,No,Product manager,4255,Yes,Yes,Yes,Denmark,Ads - ETL Tools,In A Month,"aurora,s3","bigquery,s3"
+2486@customer-leads.com,contact us,Yes,Yes,Ceo,7473,Yes,Yes,Yes,Denmark,Direct - Home,Early Exploration,"redshift,s3,tableau",ms_sql
+2487@customer-leads.com,request demo ,Yes,No,Swe,4792,No,No,No,Denmark,Ads - ETL Tools,Early Exploration,"python,chartio,superset",redshift
+2488@customer-leads.com,request quote,No,Yes,Business analyst ,9837,Yes,Yes,No,Japan,Blog - Redshift - Generic,Early Exploration,google_analytics ,ms_sql
+2489@customer-leads.com,contact us,No,Yes,Tech lead,6028,Yes,Yes,Yes,India,Blog - Generic,Early Exploration,google_analytics ,"snowflake,rds,ms_sql"
+2490@customer-leads.com,created account ,No,No,Tech lead,2273,No,Yes,No,Us,Direct - Home,This Quarter,"python,chartio,superset","bigquery,s3"
+2491@customer-leads.com,created account ,Yes,Yes,Ceo,4642,No,Yes,No,Denmark,Blog - Redshift - Generic,Immediately,"mysql,ms_sql","postgres,s3,ms_sql"
+2492@customer-leads.com,request quote,Yes,Yes,Tech lead,8245,Yes,No,Yes,China,Blog - Redshift - Generic,In A Month,"python,chartio,superset",redshift
+2493@customer-leads.com,contact us,Yes,Yes,Cto,1269,Yes,Yes,Yes,Germany,Blog - Redshift - Generic,This Quarter,"python,chartio,superset","bigquery,s3"
+2494@customer-leads.com,contact us,Yes,Yes,Product manager,3348,No,No,Yes,Germany,Ads - ETL Tools,Immediately,"redshift,s3,tableau","postgres,s3,ms_sql"
+2495@customer-leads.com,contact us,Yes,No,Cto,8479,Yes,Yes,No,Germany,Blog - Redshift - X to Y,In A Month,"aurora,s3",redshift
+2496@customer-leads.com,created account ,Yes,Yes,Ceo,7606,No,No,Yes,Denmark,Ads - ETL Tools,Immediately,"redshift,s3,tableau","snowflake,rds,ms_sql"
+2497@customer-leads.com,request quote,Yes,Yes,Ceo,7973,No,No,No,Denmark,Blog - Generic,Immediately,"mysql,ms_sql","postgres,s3,ms_sql"
+2498@customer-leads.com,created account ,Yes,Yes,Ceo,4431,Yes,No,No,Denmark,Blog - Redshift - X to Y,This Quarter,"redshift,s3,tableau","postgres,s3,ms_sql"
+2499@customer-leads.com,contact us,Yes,Yes,Cto,1276,No,No,No,Germany,Direct - Home,Early Exploration,"aurora,s3",redshift
+2500@customer-leads.com,created account ,No,Yes,Swe,3912,No,No,Yes,Denmark,Direct - Home,Immediately,"python,chartio,superset",ms_sql
